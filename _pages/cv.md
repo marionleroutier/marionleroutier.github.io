@@ -11,17 +11,17 @@ redirect_from:
 
 [Full CV](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
-Education
-======
+## Education
+
 * 2018-2021: Ph.D in Economics, Paris School of Economics, University Paris 1 and CIRED
 * 2012-2015: Master in Economics, "Public Policy and Development", Paris School of Economics
-* 2009-2013: HEC Paris business school, specialization in Management and Public Affairs 
 * 2011-2013: M.A. in Public Policy and Management, Freie Universität Berlin (joint programme with HEC Paris)
+* 2009-2013: HEC Paris business school, specialization in Management and Public Affairs 
 * 2009-2010: B.A in History, Sorbonne University
 
 
-Relevant Employment
-======
+## Relevant Employment
+
 * 2021-2023: Post-doctoral researcher, Misum, Stockholm
 * 2017-2018: Senior consultant in social impact evaluation, Kimso, Paris
 * 2015-2017: Economic consultant, Frontier Economics, London
