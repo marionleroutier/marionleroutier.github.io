@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Full CV
 
 Education
 ======
@@ -17,6 +19,7 @@ Education
 * 2011-2013: M.A. in Public Policy and Management, Freie Universität Berlin (joint programme with HEC Paris)
 * 2009-2010: B.A in History, Sorbonne University
 
+
 Relevant Employment
 ======
 * 2021-2023: Post-doctoral researcher, Misum, Stockholm
@@ -24,6 +27,8 @@ Relevant Employment
 * 2015-2017: Economic consultant, Frontier Economics, London
 * 2013-2014: Research Assistant, Grade, Lima, and IRD-DIAL, Paris
 * 2013: Intern, Ministry of Economy and Finance, Paris
+
+
 
 
  
