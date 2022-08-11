@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018-2021: Ph.D in Economics, Paris School of Economics, University Paris 1 and CIRED
+* 2012-2015: Master in Economics, "Public Policy and Development", Paris School of Economics
+* 2009-2013: HEC Paris business school, specialization in Management and Public Affairs 
+* 2011-2013: M.A. in Public Policy and Management, Freie Universität Berlin (joint programme with HEC Paris)
+* 2009-2010: B.A in History, Sorbonne University
 
-Work experience
+Relevant Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2023: Post-doctoral researcher, Misum, Stockholm
+* 2017-2018: Senior consultant in social impact evaluation, Kimso, Paris
+* 2015-2017: Economic consultant, Frontier Economics, London
+* 2013-2014: Research Assistant, Grade, Lima, and IRD-DIAL, Paris
+* 2013: Intern, Ministry of Economy and Finance, Paris
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
