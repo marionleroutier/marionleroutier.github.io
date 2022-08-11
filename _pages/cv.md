@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV
+Full CV (http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
 Education
 ======
