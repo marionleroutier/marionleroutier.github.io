@@ -14,7 +14,7 @@ author_profile: true
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
-    <p align="justify">  Decreasing greenhouse gas emissions from electricity generation is crucial to tackle climate change. Empirically, however, little is known about the effectiveness of existing economic instruments in the power sector. This paper examines the impact of the UK Carbon Price Support (CPS), a carbon tax implemented in the UK power sector in 2013. Relative to a synthetic control unit built from other European countries, I find that emissions from the UK power sector declined by 20 to 26 percent per year on average between 2013 and 2017. The tax operated via three mechanisms: a decrease in emissions at the intensive margin; the closure of some high-emission plants at the extensive margin; and a higher probability of closure for plants already at risk due to European air quality regulations.
+    <p align="justify"> Decreasing greenhouse gas emissions from electricity generation is crucial to tackle climate change. Empirically, however, little is known about the effectiveness of existing economic instruments in the power sector. This paper examines the impact of the UK Carbon Price Support (CPS), a carbon tax implemented in the UK power sector in 2013. Relative to a synthetic control unit built from other European countries, I find that emissions from the UK power sector declined by 20 to 26 percent per year on average between 2013 and 2017. The tax operated via three mechanisms: a decrease in emissions at the intensive margin; the closure of some high-emission plants at the extensive margin; and a higher probability of closure for plants already at risk due to European air quality regulations.
      </p>
      </details>
 
@@ -37,9 +37,9 @@ author_profile: true
  
    * [Working Paper](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
    * <details>
-    <summary> <b>Abstract:</b> </summary>
-    <br>
-    <p align="justify">  We propose a new approach to estimate the causal effects of maritime traffic when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
+     <summary> <b>Abstract:</b> </summary>
+     <br>
+     <p align="justify"> We propose a new approach to estimate the causal effects of maritime traffic when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
      </p>
      </details>
    
