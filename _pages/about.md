@@ -10,10 +10,9 @@ redirect_from:
 __Welcome to my website!__
 
 
-
-<p align="justify">I'm an applied environmental economist focusing on two major environmental issues, ambient air pollution and climate change.</p>
-
-<p align="justify">I'm currently a post-doctoral researcher at the Mistra Center for Sustainable Markets (<a href="https://www.hhs.se/en/research/institutes/misum-startpage/">Misum</a>), at the Stockholm School of Economics (<a href="https://www.hhs.se/en/research/departments/de/">SSE</a>). I'm also affiliated with SSE's Department of Economics.</p>
-
-<p align="justify">I completed my PhD in economics at the Paris School of Economics (PSE) and CIRED in July 2021, co-advised by Prof. Katheline Schubert (PSE, Paris 1) and Prof. Philippe Quirion (CIRED). My PhD was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists.</p>
+<div align="justify">I'm an applied environmental economist focusing on two major environmental issues, ambient air pollution and climate change.</div>
+<div> </div>
+<div align="justify">I'm currently a post-doctoral researcher at the Mistra Center for Sustainable Markets (<a href="https://www.hhs.se/en/research/institutes/misum-startpage/">Misum</a>), at the Stockholm School of Economics (<a href="https://www.hhs.se/en/research/departments/de/">SSE</a>). I'm also affiliated with SSE's Department of Economics.</div>
+<div> </div>
+<div align="justify">I completed my PhD in economics at the Paris School of Economics (PSE) and CIRED in July 2021, co-advised by Prof. Katheline Schubert (PSE, Paris 1) and Prof. Philippe Quirion (CIRED). My PhD was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists.</div>
 
