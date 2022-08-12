@@ -12,7 +12,7 @@ redirect_from:
 __Welcome to my website!__
 
 
-* I'm an applied environmental economist focusing on two major environmental issues, ambient air pollution and climate change.</div>
+* I'm an applied environmental economist focusing on two major environmental issues, ambient air pollution and climate change.
 
 * I'm currently a post-doctoral researcher at the Mistra Center for Sustainable Markets (<a href="https://www.hhs.se/en/research/institutes/misum-startpage/">Misum</a>), at the Stockholm School of Economics (<a href="https://www.hhs.se/en/research/departments/de/">SSE</a>). I'm also affiliated with SSE's Department of Economics.
 
