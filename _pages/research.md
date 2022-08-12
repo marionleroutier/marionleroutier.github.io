@@ -26,14 +26,14 @@ __Abstract:__ We propose a new approach to estimate the causal effects of mariti
 of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
 
 
-* #### Tackling car emissions in urban areas: Shift, Avoid, Improve, Joint with Philippe Quirion (CNRS, CIRED)
+* #### Tackling car emissions in urban areas: Shift, Avoid, Improve, Joint with Philippe Quirion 
 [Working paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
 
 __Abstract:__ The environmental externalities associated with car use represent a signi cant cost to society. Using a representative transport survey from the Paris area, we investigate to what extent car use could be i)shifted to low-emission modes, ii)avoided via teleworking, or iii)improved via a transition to electric vehicles. According to our scenario analysis based on counterfactual travel time data for 45,000 observed car trips, 40% of car users could realistically shift to e-bike - mostly - or public transit - in a few cases - with an increase in travel time of one minute per day on average. Such modal shift would reduce CO2 and local pollutant emissions from daily mobility by around 15%, generating climate and health benefits worth around €140 million per year. Inability to undertake a modal shift is associated with living in the outer suburbs, being retired, being a man and having a high income. Another 5% of total emissions could be avoided if all the "car-dependent" individuals able to work from home did so for two days a week. Holding demand for mobility and public transport infrastructure fixed, achieving greater emission reductions would require improving car use via a transition to electric vehicles.
 
 ## Work in Progress
 
-* #### The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes, joint with Hélène Ollivier (CNRS, PSE)
+* #### The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes, joint with Hélène Ollivier
 
 __Abstract:__ Poor air quality is known to be bad for health. How do air pollution’s health effects on workers translate into economic costs? And do firms adapt via their payroll decisions? We answer these questions by combining French administrative data on sickness leave episodes and workers’ flows with fine-grained pollution and weather data. We exploit short-term variations in wind direction as an instrument for exposure to particulate matter (PM2.5) pollution.
 
