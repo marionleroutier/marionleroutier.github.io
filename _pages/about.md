@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- }
 ---
 # <div class="ex1" align="justify">
 
