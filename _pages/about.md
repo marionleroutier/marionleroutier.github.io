@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  .ex1 {
-  margin: margin: auto auto 20px auto; 
-}
+ }
 ---
 # <div class="ex1" align="justify">
 
