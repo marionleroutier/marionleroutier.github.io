@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 
-* #### Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022.
+* ### Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022.
 [[Open Access Journal Article]](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub) [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf)
 
 <p align="justify">
@@ -14,7 +14,7 @@ author_profile: true
  </p>
 
 
-* #### Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris. (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
+* ### Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris. (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
 [[Open Access Journal Article]](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub) [[Replication package]](https://osf.io/pnyzk/) [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf)
 
 <p align="justify">
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Working Papers
 
-* #### Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data, Joint with Léo Zabrocki and Marie-Abèle Bind
+* ### Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data, Joint with Léo Zabrocki and Marie-Abèle Bind
  [[Working Paper]](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
 
  <p align="justify">
@@ -31,7 +31,7 @@ author_profile: true
 of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
  </p>
 
-* #### Tackling car emissions in urban areas: Shift, Avoid, Improve, Joint with Philippe Quirion 
+* ### Tackling car emissions in urban areas: Shift, Avoid, Improve, Joint with Philippe Quirion 
 [[Working paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
 
 <p align="justify">
@@ -40,7 +40,7 @@ of Marseille, a large Mediterranean port city, where air pollution emitted by cr
 
 ## Work in Progress
 
-* #### The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes, joint with Hélène Ollivier
+* ### The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes, joint with Hélène Ollivier
 
 <p align="justify">
  <b>Abstract:</b> Poor air quality is known to be bad for health. How do air pollution’s health effects on workers translate into economic costs? And do firms adapt via their payroll decisions? We answer these questions by combining French administrative data on sickness leave episodes and workers’ flows with fine-grained pollution and weather data. We exploit short-term variations in wind direction as an instrument for exposure to particulate matter (PM2.5) pollution.
