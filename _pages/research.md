@@ -15,6 +15,7 @@ author_profile: true
     <p align="justify"> Decreasing greenhouse gas emissions from electricity generation is crucial to tackle climate change. Empirically, however, little is known about the effectiveness of existing economic instruments in the power sector. This paper examines the impact of the UK Carbon Price Support (CPS), a carbon tax implemented in the UK power sector in 2013. Relative to a synthetic control unit built from other European countries, I find that emissions from the UK power sector declined by 20 to 26 percent per year on average between 2013 and 2017. The tax operated via three mechanisms: a decrease in emissions at the intensive margin; the closure of some high-emission plants at the extensive margin; and a higher probability of closure for plants already at risk due to European air quality regulations.
      </p>
      </details>
+  _[Best paper Award](https://faere.fr/actualites/conferences-ateliers/conference-faere-2019/prix-faere-du-meilleur-article-de-jeunes-economistes/) from the French Association of Environmental and Resource Economists_
   _Media Coverage: [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)_
 
 
