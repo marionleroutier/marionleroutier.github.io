@@ -9,8 +9,6 @@ author_profile: true
 * ### [Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub). _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022.
 
   * [Working Paper](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf)
-
-
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
@@ -22,7 +20,6 @@ author_profile: true
 * ### [Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub) (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
 
   * [Replication package](https://osf.io/pnyzk/), [Working Paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf)
-  
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
@@ -47,7 +44,6 @@ author_profile: true
 * ### Tackling car emissions in urban areas: Shift, Avoid, Improve, Joint with Philippe Quirion 
 
   * [Working paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
-
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
@@ -58,7 +54,6 @@ author_profile: true
 ## Work in Progress
 
 * ### The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes, joint with Hélène Ollivier
-
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
