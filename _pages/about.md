@@ -11,9 +11,7 @@ redirect_from:
 }
 ---
 
-.ex1 {
-margin: auto auto 20px auto; 
-}
+
 __Welcome to my website!__
 
 
