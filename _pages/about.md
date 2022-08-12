@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <div class="ex1" align="justify">
+<!-- <div class="ex1" align="justify"> -->
 
 __Welcome to my website!__
 
