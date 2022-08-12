@@ -23,7 +23,7 @@ author_profile: true
 * ### [Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub) (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
 
   * [Replication package](https://osf.io/pnyzk/), [Working Paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf)
-
+  
   * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
@@ -37,7 +37,6 @@ author_profile: true
 * ### Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data, Joint with Léo Zabrocki and Marie-Abèle Bind
  
    * [Working Paper](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
-   
    * <details>
     <summary> <b>Abstract:</b> </summary>
     <br>
