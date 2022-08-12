@@ -24,8 +24,8 @@ author_profile: true
     <summary> <b>Abstract:</b> </summary>
     <br>
     <p align="justify"> Urban road transport is an important source of local pollution and carbon emissions. Designing effective and fair policies tackling these externalities requires understanding who contributes to emissions today. We estimate individual transport-induced pollution footprints combining a travel demand survey from the Paris area with NOx, PM2.5 and CO2 emission factors. We find that the top 20% emitters contribute 75-85% of emissions on a representative weekday. They combine longer distances travelled, a high car modal share and, especially for local pollutants, a higher emission intensity of car trips. Living in the suburbs, being a man and being employed are the most important characteristics associated with top emissions. Among the employed, those commuting from suburbs to suburbs, working at a factory, with atypical working hours or with a manual, shopkeeping or top executive occupation are more likely to be top emitters. Finally, policies targeting local pollution may be more regressive than those targeting CO2 emissions, due to the different correlation between income and the local pollutant vs. CO2 emission intensity of car trips.
-   </p>
-   </details>
+ </p>
+</details>
  
 
 ## Working Papers
