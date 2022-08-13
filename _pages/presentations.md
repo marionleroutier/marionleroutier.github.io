@@ -47,8 +47,8 @@ redirect_from:
 
 ### 2019
 
-* Mercator Institute on Global Commons and Climate Change (invited), Berlin
-* Potsdam Institute for Climate Impact research (invited), Berlin
+* Mercator Institute on Global Commons and Climate Change, Berlin (invited)
+* Potsdam Institute for Climate Impact research (invited)
 * 25th Annual Conference of the European Association of Environmental and Resource Economists, Manchester
 * LSE Policy Design and Evaluation team meeting, London
 * Eighth Mannheim Energy Conference
