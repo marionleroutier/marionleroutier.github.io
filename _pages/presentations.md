@@ -4,8 +4,8 @@ layout: archive
 title: "Seminar and conferences" 
 permalink: /presentations/  
 author_profile: true
----
 
+---
 {% include base_path %}
 
 
