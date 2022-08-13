@@ -1,11 +1,11 @@
 
 ---
-layout: archive
-title: "Seminar and conferences"
-permalink: /presentations/
-author_profile: true
-redirect_from:
-  - /resume
+layout: archive 
+title: "Seminar and conferences" 
+permalink: /presentations/ 
+author_profile: true 
+redirect_from: 
+  - /resume 
 ---
 
 {% include base_path %}
