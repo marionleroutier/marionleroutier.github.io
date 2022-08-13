@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "Seminars and conferences"
+title: "Seminar and conferences"
 permalink: /presentations/
 author_profile: true
 redirect_from:
