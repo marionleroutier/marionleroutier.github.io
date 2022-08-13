@@ -10,8 +10,11 @@ redirect_from:
 {% include base_path %}
 
 [Full CV](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
+### Current position
 
-## Education
+* 2021-2023: Post-doctoral researcher, Misum, Stockholm
+
+### Education
 
 * 2018-2021: Ph.D in Economics, Paris School of Economics, University Paris 1 and CIRED
 * 2012-2015: Master in Economics, "Public Policy and Development", Paris School of Economics
@@ -20,13 +23,15 @@ redirect_from:
 * 2009-2010: B.A in History, Sorbonne University
 
 
-## Relevant Employment
+### Past positions
 
-* 2021-2023: Post-doctoral researcher, Misum, Stockholm
+* 2019-2021: Teaching Fellow, University Paris 1
 * 2017-2018: Senior consultant in social impact evaluation, Kimso, Paris
 * 2015-2017: Economic consultant, Frontier Economics, London
-* 2013-2014: Research Assistant, Grade, Lima, and IRD-DIAL, Paris
-* 2013: Intern, Ministry of Economy and Finance, Paris
+* 2013-2014: Research Assistant at Grade, Lima, and IRD-DIAL, Paris
+* Spring 2013: Intern, Ministry of Economy and Finance, Paris
+
+
 
 
 
