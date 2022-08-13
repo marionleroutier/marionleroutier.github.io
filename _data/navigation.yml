@@ -8,6 +8,14 @@ main:
            
   - title: "CV"
     url: /cv/
+               
+  - title: "Seminar and conferences"
+    url: /presentations/
+    
+  - title: ""
+    url: /about/
+    
+    
     
  # - title: "Guide"
   #  url: /markdown/tt
