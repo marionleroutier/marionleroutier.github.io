@@ -12,8 +12,8 @@ main:
   - title: "Seminar and conferences"
     url: /presentations/
     
-  - title: "About"
-    url: /about/
+ # - title: "About"
+  #  url: /about/
     
     
     
