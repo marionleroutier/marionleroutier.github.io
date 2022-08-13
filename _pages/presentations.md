@@ -2,13 +2,12 @@
 ---
 layout: archive 
 title: "Seminar and conferences" 
-permalink: /presentations/ 
-author_profile: true 
-redirect_from: 
-  - /resume 
+permalink: /presentations/  
+author_profile: true
 ---
 
 {% include base_path %}
+
 
 ### 2022 (*: planned)
 
