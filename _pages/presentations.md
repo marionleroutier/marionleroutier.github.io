@@ -1,4 +1,3 @@
-
 ---
 layout: archive 
 title: "Seminar and conferences" 
