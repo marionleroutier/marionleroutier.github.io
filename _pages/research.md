@@ -31,6 +31,18 @@ author_profile: true
    * [Replication package](https://osf.io/pnyzk/), [Working Paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf)
    * Media Coverage: [Actu Environnement](https://www.actu-environnement.com/ae/news/pollution-air-etude-profil-conducteur-plus-emetteurs-paris-39481.php4)
 
+
+## Job Market Paper
+
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier
+  * <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify">  Poor air quality has been found to negatively affect workers’ physical health and cognitive functions, but we know little about the economy-wide consequences for firms. This paper assembles a unique dataset combining daily observations of sickness leave incidence for 400,000 French workers between 2009 and 2015, the monthly sales of firms employing them, and fine-grained pollution data. Exploiting local variations in wind direction as an instrument for exposure to particulate matter (PM2.5) pollution, we find that a 10% increase in monthly PM2.5 increases workers’ risk of sickness leave that month by 1%. While we fail to detect an impact of pollution on firms’ monthly sales on average, sectoral analyses reveal a negative effect in manufacturing, construction and professional services. The associated cost is economically significant: respecting the WHO’s air quality recommendations would have avoided, on an average year, 2 million days of sick leave and at least €6 billion of sales losses (0.3% of French GDP). Our analysis has three main implications: first, air pollution negatively affects firms via other channels than sickness-related absenteeism; second, only focusing on health costs underestimates the total cost of air pollution to society. Third, even in a high-income, low-pollution context, the benefits of additional pollution reductions seem to largely compensate the costs.
+     </p>
+     </details> 
+     
+     
 ## Working Papers
 
 * __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki and Marie-Abele Bind
@@ -55,16 +67,6 @@ author_profile: true
    * [Working paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
 
 
-## Work in Progress
-
-* __The Cost of Air Pollution for Workers and Firms: Evidence from Sickness Leave Episodes__, with Hélène Ollivier
-  * <details>
-    <summary> Abstract: </summary>
-    <br>
-    <p align="justify">  Poor air quality is known to be bad for health. How do air pollution’s health effects on workers translate into economic costs? And do firms adapt via their payroll decisions? We answer these questions by combining French administrative data on sickness leave episodes and workers’ flows with fine-grained pollution and weather data. We exploit short-term variations in wind direction as an instrument for exposure to particulate matter (PM2.5) pollution.
-     </p>
-     </details> 
-     
 ## Policy Briefs
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
