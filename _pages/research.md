@@ -20,7 +20,7 @@ author_profile: true
   _[Best paper Award](https://faere.fr/actualites/conferences-ateliers/conference-faere-2019/prix-faere-du-meilleur-article-de-jeunes-economistes/) from the French Association of Environmental and Resource Economists_
   
 
-* __[Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__ (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
+* __[Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0140988322001189)__. (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
 
   * <details>
     <summary> Abstract: </summary>
