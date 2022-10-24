@@ -18,5 +18,5 @@ __Welcome to my website!__
   
 * My PhD was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists and the <a href="https://www.sorbonne.fr/wp-content/uploads/Liste-Laur%C3%A9ats-PDC-2022.pdf">1st Prize of the PhD Award in Economics</a> by the Chancellerie des Universités de Paris.
 
-__I am on the 2022-2023 job market, and I will be available for interviews at the EEA 2022 and the ASSA 2023 meetings__
+__I am on the 2022-2023 job market, and I will be available for interviews at the EEA 2022 and the ASSA 2023 meetings.__
 
