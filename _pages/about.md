@@ -18,4 +18,4 @@ __Welcome to my website!__
 
 * I completed my PhD in economics at the Paris School of Economics (PSE) and CIRED in July 2021, co-advised by Prof. Katheline Schubert (PSE, Paris 1) and Prof. Philippe Quirion (CIRED). 
   
-* My PhD was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists.
+* My PhD was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists and the <a href="https://www.sorbonne.fr/wp-content/uploads/Liste-Laur%C3%A9ats-PDC-2022.pdf">1st Prize of the PhD Award in Economics</a> by the Chancellerie des Universités de Paris.
