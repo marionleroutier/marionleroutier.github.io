@@ -4,6 +4,18 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+
+
+## Job Market Paper
+
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier
+  * <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify">  Poor air quality negatively affects workers' health and cognitive functions, but we know little about the consequences for firms. We estimate the causal effects of fine particulate matter (PM2.5) exposure on workers' absenteeism and firms' monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases absenteeism in the same month by 1% and reduces sales in manufacturing, construction, and professional services, with different lags. Sales losses are several orders of magnitude larger than what would be expected if workers' absenteeism was the only factor affecting firms' performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers. Our results are economically significant: reducing air pollution in line with WHO guidelines saves France an estimated 0.3% of GDP annually in terms of avoided sales losses.
+     </p>
+     </details> 
+     
 ## Publications
 
 * __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022.
@@ -31,17 +43,6 @@ author_profile: true
    * [Replication package](https://osf.io/pnyzk/), [Working Paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf)
    * Media Coverage: [Actu Environnement](https://www.actu-environnement.com/ae/news/pollution-air-etude-profil-conducteur-plus-emetteurs-paris-39481.php4)
 
-
-## Job Market Paper
-
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier
-  * <details>
-    <summary> Abstract: </summary>
-    <br>
-    <p align="justify">  Poor air quality has been found to negatively affect workers’ physical health and cognitive functions, but we know little about the economy-wide consequences for firms. This paper assembles a unique dataset combining daily observations of sickness leave incidence for 400,000 French workers between 2009 and 2015, the monthly sales of firms employing them, and fine-grained pollution data. Exploiting local variations in wind direction as an instrument for exposure to particulate matter (PM2.5) pollution, we find that a 10% increase in monthly PM2.5 increases workers’ risk of sickness leave that month by 1%. While we fail to detect an impact of pollution on firms’ monthly sales on average, sectoral analyses reveal a negative effect in manufacturing, construction and professional services. The associated cost is economically significant: respecting the WHO’s air quality recommendations would have avoided, on an average year, 2 million days of sick leave and at least €6 billion of sales losses (0.3% of French GDP). Our analysis has three main implications: first, air pollution negatively affects firms via other channels than sickness-related absenteeism; second, only focusing on health costs underestimates the total cost of air pollution to society. Third, even in a high-income, low-pollution context, the benefits of additional pollution reductions seem to largely compensate the costs.
-     </p>
-     </details> 
-     
      
 ## Working Papers
 
