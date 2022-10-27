@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market Paper
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS)
   * <details>
     <summary> Abstract: </summary>
     <br>
@@ -32,7 +32,7 @@ author_profile: true
   _[Best paper Award](https://faere.fr/actualites/conferences-ateliers/conference-faere-2019/prix-faere-du-meilleur-article-de-jeunes-economistes/) from the French Association of Environmental and Resource Economists_
   
 
-* __[Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0140988322001189)__. (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022.
+* __[Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0140988322001189)__. (with Philippe Quirion (CIRED, CNRS)). _Energy Economics_, Volume 109, May 2022.
 
   * <details>
     <summary> Abstract: </summary>
@@ -46,7 +46,7 @@ author_profile: true
      
 ## Working Papers
 
-* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki and Marie-Abele Bind
+* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki (EIEE) and Marie-Abele Bind (Harvard Medical School)
  
    * <details>
      <summary> Abstract: </summary>
@@ -57,7 +57,7 @@ author_profile: true
     * [Working Paper](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
    
 
-* __Tackling car emissions in urban areas: Shift, Avoid, Improve__, with Philippe Quirion 
+* __Tackling car emissions in urban areas: Shift, Avoid, Improve__, with Philippe Quirion (CIRED, CNRS)
 
   * <details>
     <summary> Abstract: </summary>
@@ -67,7 +67,17 @@ author_profile: true
      </details>
    * [Working paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
 
+    
+## Work in progress
 
+* __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink (University of Bonn), Hélène Ollivier (PSE, CNRS) and Aurélien Saussay (LSE)
+ 
+ * __Gender, Carbon Footprint and Environmental Attitudes__, with Julius Andersson (SSE), Maria Berlin (SSE), Pamela Campa (SSE) and Caroline Coly (Bocconi, PSE)
+ 
+ * __Peer Effects in Pro-Environmental Behaviours__, with Vincent Bagilet (Columbia University) and Théo Konc (TU Berlin)
+ * __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman (CREST) 
+ * __The Health and Economic Benefits from Cycling__, with Emilie Schwarz (CNAM), Kevin Jean (CNAM), Philippe Quirion (CNRS, CIRED) and Audrey de Nazelle (Imperial College London)
+ 
 ## Policy Briefs
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
