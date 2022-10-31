@@ -8,11 +8,11 @@ author_profile: true
 
 ## Job Market Paper
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS) [[Latest version]](https://marionleroutier.github.io/files/LeroutierOllivier_2022_cost_pollution_jmp.pdf)
   * <details>
     <summary> Abstract: </summary>
     <br>
-    <p align="justify">  Poor air quality negatively affects workers' health and cognitive functions, but we know little about the consequences for firms. We estimate the causal effects of fine particulate matter (PM2.5) exposure on workers' absenteeism and firms' monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases absenteeism in the same month by 1% and reduces sales in manufacturing, construction, and professional services, with different lags. Sales losses are several orders of magnitude larger than what would be expected if workers' absenteeism was the only factor affecting firms' performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers. Our results are economically significant: reducing air pollution in line with WHO guidelines saves France an estimated 0.3% of GDP annually in terms of avoided sales losses.
+    <p align="justify">  Poor air quality negatively affects workers' health and cognitive functions, but we know little about its consequences for firms. In this paper, we estimate the causal effects of fine particulate matter (PM2.5) exposure on workers' absenteeism and firms' monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases absenteeism in the same month by 1% and reduces sales in manufacturing, construction, and professional services, with different lags. Sales losses are several orders of magnitude larger than what we would be expect if workers' absenteeism was the only factor affecting firms' performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers. We estimate that reducing air pollution in France in line with the World Health Organization's guidelines would have saved at least 0.3% of GDP annually in terms of avoided sales losses.
      </p>
      </details> 
      
@@ -46,7 +46,7 @@ author_profile: true
      
 ## Working Papers
 
-* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki (EIEE) and Marie-Abele Bind (Harvard Medical School)
+* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki (EIEE) and Marie-Abele Bind (Harvard Medical School) [[Latest version]](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
  
    * <details>
      <summary> Abstract: </summary>
@@ -54,10 +54,10 @@ author_profile: true
      <p align="justify"> We propose a new approach to estimate the causal effects of maritime traffic when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
      </p>
      </details>
-    * [Working Paper](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
+   
    
 
-* __Tackling car emissions in urban areas: Shift, Avoid, Improve__, with Philippe Quirion (CIRED, CNRS)
+* __Tackling car emissions in urban areas: Shift, Avoid, Improve__, with Philippe Quirion (CIRED, CNRS) [[Latest version]](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
 
   * <details>
     <summary> Abstract: </summary>
@@ -65,7 +65,7 @@ author_profile: true
     <p align="justify">  The environmental externalities associated with car use represent a signi cant cost to society. Using a representative transport survey from the Paris area, we investigate to what extent car use could be i)shifted to low-emission modes, ii)avoided via teleworking, or iii)improved via a transition to electric vehicles. According to our scenario analysis based on counterfactual travel time data for 45,000 observed car trips, 40% of car users could realistically shift to e-bike - mostly - or public transit - in a few cases - with an increase in travel time of one minute per day on average. Such modal shift would reduce CO2 and local pollutant emissions from daily mobility by around 15%, generating climate and health benefits worth around €140 million per year. Inability to undertake a modal shift is associated with living in the outer suburbs, being retired, being a man and having a high income. Another 5% of total emissions could be avoided if all the "car-dependent" individuals able to work from home did so for two days a week. Holding demand for mobility and public transport infrastructure fixed, achieving greater emission reductions would require improving car use via a transition to electric vehicles.
      </p>
      </details>
-   * [Working paper](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_ShiftAvoidImprove.pdf)
+  
 
     
 ## Work in progress
