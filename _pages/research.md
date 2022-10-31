@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market Paper
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS) [[Working Paper]](https://marionleroutier.github.io/files/LeroutierOllivier_2022_cost_pollution_jmp.pdf)
   * <details>
     <summary> Abstract: </summary>
     <br>
