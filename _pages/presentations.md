@@ -1,16 +1,18 @@
 ---
 layout: archive 
-title: "Seminar and conferences" 
+title: "Talks" 
 permalink: /presentations/  
 author_profile: true
 
 ---
 
-### 2022 (*: planned)
+### 2022
 
-* CEE-M Montpellier* (invited)
-* Helsinki GSE* (invited)
-* GAEL Grenoble* (invited)
+* European Health Economics Association Online seminar series 
+* Swedish economics conference, Stockholm
+* CEE-M Montpellier (invited)
+* Helsinki GSE (invited)
+* GAEL Grenoble (invited)
 * 27th Annual Conference of the European Association of Environmental and Resource Economists, Rimini
 * Berlin Research Seminar on Environmental, Resource and Climate Economics (invited)
 * 13th Toulouse Conference on the Economy and Climate
