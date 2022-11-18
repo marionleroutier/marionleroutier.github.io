@@ -23,5 +23,5 @@ __Welcome to my website!__
   
 * My PhD dissertation was awarded the <a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> by the European Association of Environmental and Resource Economists and the <a href="https://www.sorbonne.fr/wp-content/uploads/Liste-Laur%C3%A9ats-PDC-2022.pdf">1st Prize of the PhD Award in Economics</a> by the Chancellerie des Universités de Paris.
 
-* You can find my cv here.
+* You can find my cv <a href="http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf">here</a>.
 
