@@ -5,9 +5,14 @@ permalink: /presentations/
 author_profile: true
 
 ---
+### 2023
+
+* SLU, Uppsala (invited)
+* AERNA-CE3 Durham-UAM Online Webinar Series (invited)
 
 ### 2022
 
+* SITE Workshop on the Economics of Air Pollution, Stockholm
 * European Health Economics Association Online seminar series 
 * Swedish economics conference, Stockholm
 * CEE-M Montpellier (invited)
@@ -15,7 +20,7 @@ author_profile: true
 * GAEL Grenoble (invited)
 * 27th Annual Conference of the European Association of Environmental and Resource Economists, Rimini
 * Berlin Research Seminar on Environmental, Resource and Climate Economics (invited)
-* 13th Toulouse Conference on the Economy and Climate
+* 13th Toulouse Conference on the Economics of Energy and Climate
 * 9th IZA Workshop on Environment, Health and Labor Markets, Online
 * 21st Journées Louis-André Gérard-Varet (LAGV) 
 * 38th Journées de la Micro-Economie Appliquée (JMA)
