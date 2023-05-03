@@ -12,7 +12,7 @@ __Welcome to my website!__
 
 * I'm an __applied environmental economist__ focusing on two major environmental issues, ambient air pollution and climate change.
  
-* I'm currently a __post-doctoral researcher__ at the __Stockholm School of Economics__ (<a href="https://www.hhs.se/en/research/departments/de/">SSE</a>), based at <a href="https://www.hhs.se/en/research/institutes/misum-startpage/">Misum</a>. I'm also affiliated with SSE's Department of Economics. 
+* I'm currently a __post-doctoral researcher__ at the __Stockholm School of Economics__ (<a href="https://www.hhs.se/en/research/departments/de/">SSE</a>), based at <a href="https://www.hhs.se/en/research/institutes/misum-startpage/">Misum</a>. I'm also affiliated with SSE's Department of Economics. I completed my PhD at the __Paris School of Economics__ in 2021. My Dissertation earned the 2022 
 
 * I will join <a href="https://www.ensae.fr/en">ENSAE</a> and <a href="https://crest.science/">CREST</a> as a __tenure-track Assistant professor__ in Economics in September 2024. Before that, I will be a __postdoctoral fellow__ at the __Institute for Fiscal Studies__ (<a href="https://ifs.org.uk/">IFS</a>) in the academic year 2023/2024.
  
