@@ -30,8 +30,8 @@ author_profile: true
       <summary> Abstract: </summary>
       <br>
       <p align="justify"> We propose a new approach to estimate the causal effects of maritime traffic on air pollution when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
-     </p>
-     </details>
+      </p>
+      </details>
      
 ## Publications
 
