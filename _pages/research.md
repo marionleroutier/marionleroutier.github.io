@@ -17,7 +17,7 @@ author_profile: true
      </details> 
      
    
- * __Tackling car emissions in urban areas: Shift, Avoid, Improve__, with Philippe Quirion (CIRED, CNRS) [[Revised version]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
+ * __Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve__, with Philippe Quirion (CIRED, CNRS) [[Revised version]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
    * <details>
      <summary> Abstract: </summary>
      <br>
