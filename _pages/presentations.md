@@ -1,62 +1,61 @@
 ---
 layout: archive 
-title: "Talks" 
+title: "Selected seminar and conference presentations" 
 permalink: /presentations/  
 author_profile: true
 
 ---
-### 2023
+### 2023 (*: Upcoming)
 
-* SLU, Uppsala (invited)
-* AERNA-CE3 Durham-UAM Online Webinar Series (invited)
+* University of Copenhagen
+* University of Amsterdam
+* NHH Bergen
+* University of Mannheim
+* Toulouse School of Economics
+* Queen Mary University London
+* Institute for Fiscal Studies
+* CREST
+* SLU Uppsala 
+* AERNA-CE3 Durham-UAM Online Webinar Series*
+* 11th Mannheim Energy Conference*
+* LSE/Imperial/King's Workshop in Environmental Economics*
 
 ### 2022
 
-* SITE Workshop on the Economics of Air Pollution, Stockholm
+* SITE Workshop on the Economics of Air Pollution, Stockholm (mini-lecture)
+* Online Agricultural and Resource Economics Seminar (OARES)
+* Berlin Research Seminar on Environmental, Resource and Climate Economics  
+* Helsinki GSE 
+* CEE-M Montpellier
 * European Health Economics Association Online seminar series 
-* Swedish economics conference, Stockholm
-* CEE-M Montpellier (invited)
-* Helsinki GSE (invited)
-* GAEL Grenoble (invited)
-* 27th Annual Conference of the European Association of Environmental and Resource Economists, Rimini
-* Berlin Research Seminar on Environmental, Resource and Climate Economics (invited)
+* 27th Annual Conference of the European Association of Environmental and Resource Economists
 * 13th Toulouse Conference on the Economics of Energy and Climate
 * 9th IZA Workshop on Environment, Health and Labor Markets, Online
-* 21st Journées Louis-André Gérard-Varet (LAGV) 
-* 38th Journées de la Micro-Economie Appliquée (JMA)
-* LEMNA Nantes (invited)
 * Copenhagen Business School 3rd Workshop on Health and Inequality
-* Online Agricultural and Resource Economics Seminar (invited)
-* Site internal seminar, Stockholm
+
 
 ### 2021
 
-* Misum Brownbag seminar
+* Misum Stockholm
+* AgroParisTech  
 * 20th Journées Louis-André Gérard-Varet (LAGV) 
-* 26th Annual Conference of the European Association of Environmental and Resource Economists, Rimini
-* 69th Congress of the French Economic Association (AFSE)
-* Ninth Mannheim Energy conference
-* AgroParisTech Public economics seminar (invited)
-* Misum (invited)
+* 26th Annual Conference of the European Association of Environmental and Resource Economists
+* 9th Mannheim Energy conference
+
 
 ### 2020
 
 * 6th AFSE - DG Trésor conference on public policy evaluation
-* 8th Annual conference of the French Association of Environmental and Resource Economists
 * 25th Annual Conference of the European Association of Environmental and Resource Economists
 * ICTA-UAB International Conference on Low-Carbon Lifestyle Changes 
-* PSE Regulation and Environment Seminar 
-* CIRED PhD students seminar 
 
 ### 2019
 
-* Mercator Institute on Global Commons and Climate Change, Berlin (invited)
-* Potsdam Institute for Climate Impact research (invited)
-* 25th Annual Conference of the European Association of Environmental and Resource Economists, Manchester
-* LSE Policy Design and Evaluation team meeting, London
-* Eighth Mannheim Energy Conference
-* PSE Regulation and Environment Seminar 
-* Journée de la Chaire Modélisation et Prospective, Mines de Paris
+* Mercator Institute on Global Commons and Climate Change
+* Potsdam Institute for Climate Impact research 
+* LSE Policy Design and Evaluation team meeting
+* 24th Annual Conference of the European Association of Environmental and Resource Economists
+* 8th Mannheim Energy Conference
 * 8th Annual conference of the French Association of Environmental and Resource Economists
 
 
