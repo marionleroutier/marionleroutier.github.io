@@ -35,7 +35,7 @@ author_profile: true
      
 ## Publications
 
-* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary in English]](https://www.hhs.se/en/research/institutes/misum-startpage/news/new-research-on-carbon-pricing2/), [[Lay Summary in French]](https://www.parisschoolofeconomics.eu/fr/economie-pour-tous/grand-public/5-articles-en-5-minutes/juin-2021/la-tarification-du-carbone-reduit-elle-les-emissions-de-co2-analyse-de-la-taxe-carbone-au-royaume-uni/)
+* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/research/institutes/misum-startpage/news/new-research-on-carbon-pricing2/)
 
   * <details>
     <summary> Abstract: </summary>
