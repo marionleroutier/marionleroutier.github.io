@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS) (JOB MARKET PAPER) [[Latest version]](https://marionleroutier.github.io/files/LeroutierOllivier_2023_CostPollution.pdf)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE, CNRS) (Job Market Paper) [[Latest version]](https://marionleroutier.github.io/files/LeroutierOllivier_2023_CostPollution.pdf)
   * <details>
     <summary> Abstract: </summary>
     <br>
@@ -35,7 +35,7 @@ author_profile: true
      
 ## Publications
 
-* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/research/institutes/misum-startpage/news/new-research-on-carbon-pricing2/)
+* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/about-us/news/news-from-misum/2023/power-sector-decarbonisation/)
 
   * <details>
     <summary> Abstract: </summary>
@@ -43,7 +43,7 @@ author_profile: true
     <p align="justify"> Decreasing greenhouse gas emissions from electricity generation is crucial to tackle climate change. Empirically, however, little is known about the effectiveness of existing economic instruments in the power sector. This paper examines the impact of the UK Carbon Price Support (CPS), a carbon tax implemented in the UK power sector in 2013. Relative to a synthetic control unit built from other European countries, I find that emissions from the UK power sector declined by 20 to 26 percent per year on average between 2013 and 2017. The tax operated via three mechanisms: a decrease in emissions at the intensive margin; the closure of some high-emission plants at the extensive margin; and a higher probability of closure for plants already at risk due to European air quality regulations.
      </p>
      </details>
-   * Media Coverage: [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)
+   * Media Coverage: [The Economist](https://www.economist.com/finance-and-economics/2023/06/01/what-does-the-perfect-carbon-price-look-like),  [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)
    
   _[Best paper Award](https://faere.fr/actualites/conferences-ateliers/conference-faere-2019/prix-faere-du-meilleur-article-de-jeunes-economistes/) from the French Association of Environmental and Resource Economists_
   
