@@ -18,7 +18,7 @@ __Welcome to my website!__
 
 * I will join <a href="https://www.ensae.fr/en">ENSAE</a> and <a href="https://crest.science/">CREST</a> as a __tenure-track Assistant professor__ in Economics in September 2024. In the academic year 2023/2024, I will be a __postdoctoral fellow__ at the __Institute for Fiscal Studies__ (<a href="https://ifs.org.uk/">IFS</a>). 
  
-* __My current research agenda has two angles__. In a first angle, I investigate the cost of air pollution and the causal impact of climate and environmental policies, with an emphasis on health, productivity and distributional effects. In a second and more early-stage angle, I study the effects of social norms and identity on environmental outcomes and support for environmental policies.
+* __My current research agenda has two angles__. In a first angle, I investigate the societal cost of air pollution and the causal impact of climate and environmental policies, with an emphasis on health, productivity and distributional effects. In a second and more early-stage angle, I study the determinants of support for green policies and in particular the role of social norms and identity.
 
 * You can find my __cv__ <a href="http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf">here</a>.
 
