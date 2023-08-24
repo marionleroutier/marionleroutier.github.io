@@ -15,7 +15,8 @@ author_profile: true
     <p align="justify">  Poor air quality negatively affects workers' health and cognitive functions, but we know little about the countrywide consequences for firms. In this paper, we estimate the causal effects of fine particulate matter (PM2:5) exposure on workers' absenteeism and firms' monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases worker absenteeism in the same month by 1% and reduces sales in manufacturing, construction, and professional services, with different lags. Sales losses are several orders of magnitude larger than what we would expect if workers' absenteeism was the only factor affecting firms' performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers. We estimate that reducing air pollution in France in line with the World Health Organization's guidelines would have avoided sales losses worth around 6 billion euros every year (0.3% of the French GDP).
     </p>
     </details> 
-             
+
+                 
 * __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki and Marie-Abele Bind [[Latest version]](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
     <details>
     <summary> Abstract: </summary>
@@ -26,8 +27,7 @@ author_profile: true
 
 ## Publications
 
-* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/about-us/news/news-from-misum/2023/power-sector-decarbonisation/). __Media Coverage__: [The Economist](https://www.economist.com/finance-and-economics/2023/06/01/what-does-the-perfect-carbon-price-look-like),  [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)
-    
+* __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/about-us/news/news-from-misum/2023/power-sector-decarbonisation/). __Media Coverage__: [The Economist](https://www.economist.com/finance-and-economics/2023/06/01/what-does-the-perfect-carbon-price-look-like),  [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)  
     <details>
     <summary> Abstract: </summary>
     <br>
@@ -44,6 +44,8 @@ author_profile: true
     <p align="justify"> Urban road transport is an important source of local pollution and carbon emissions. Designing effective and fair policies tackling these externalities requires understanding who contributes to emissions today. We estimate individual transport-induced pollution footprints combining a travel demand survey from the Paris area with NOx, PM2.5 and CO2 emission factors. We find that the top 20% emitters contribute 75-85% of emissions on a representative weekday. They combine longer distances travelled, a high car modal share and, especially for local pollutants, a higher emission intensity of car trips. Living in the suburbs, being a man and being employed are the most important characteristics associated with top emissions. Among the employed, those commuting from suburbs to suburbs, working at a factory, with atypical working hours or with a manual, shopkeeping or top executive occupation are more likely to be top emitters. Finally, policies targeting local pollution may be more regressive than those targeting CO2 emissions, due to the different correlation between income and the local pollutant vs. CO2 emission intensity of car trips.     
     </p>
     </details>
+
+
  
  * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve_](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
     <details>
@@ -53,7 +55,11 @@ author_profile: true
     </p>
     </details>
 
+
+
 * __[Why investing in new nuclear plants is bad for the climate](https://www.cell.com/joule/pdf/S2542-4351(23)00281-7.pdf)__.(with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
+
+
   
 ## Work in progress
 
