@@ -47,7 +47,7 @@ author_profile: true
 
 
  
- * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve_](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
+ * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
     <details>
     <summary> Abstract: </summary>
     <br>
@@ -57,7 +57,7 @@ author_profile: true
 
 
 
-* __[Why investing in new nuclear plants is bad for the climate](https://www.cell.com/joule/pdf/S2542-4351(23)00281-7.pdf)__.(with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
+* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
 
 
   
