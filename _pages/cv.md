@@ -12,7 +12,7 @@ redirect_from:
 [Full CV](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 ### Current position
 
-* 2023-2024: Postdoctoral fellow, Institute for Fiscal Studies, Stockholm
+* 2023-2024: Postdoctoral fellow, Institute for Fiscal Studies, London
 
 ### Education
 
