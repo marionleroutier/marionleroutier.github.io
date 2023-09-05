@@ -18,7 +18,7 @@ __Welcome to my website!__
    
 * In September 2024, I will join <a href="https://www.ensae.fr/en">__ENSAE__</a> and <a href="https://crest.science/about-2/">__CREST__</a> in Paris as an __Assistant Professor__.
 
-* I completed my __PhD__ at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and received the 2022 Best Doctoral Dissertation Award from the European Association of Environmental and Resource Economists (EAERE).
+* I completed my __PhD__ at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>. I received the 2022 Best Doctoral Dissertation Award from the European Association of Environmental and Resource Economists (EAERE).
  
 * You can find my __cv__ <a href="http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf">here</a>.
 
