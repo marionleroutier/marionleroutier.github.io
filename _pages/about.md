@@ -14,6 +14,8 @@ __Welcome to my website!__
 
 * I'm currently a __postdoctoral fellow__ at the <a href="https://ifs.org.uk/">__Institute for Fiscal Studies__</a>.
 
+* I'm also a research affiliate at <a href="https://www.hhs.se/misum">__Misum__</a>, the <a href="https://www.ipp.eu/en/">__IPP__</a> and <a href="https://crest.science/about-2/">__CREST__</a>.
+
 * My __research agenda__ has two angles. In a first angle, I investigate the __societal cost of air pollution__ and the __causal impact of climate and environmental policies__, with an emphasis on health, productivity and distributional effects. In a second and more early-stage angle, I study the __determinants of support for green policies__, in particular the role of social norms and identity.
    
 * In September 2024, I will join <a href="https://www.ensae.fr/en">__ENSAE__</a> and <a href="https://crest.science/about-2/">__CREST__</a> in Paris as an __Assistant Professor__.
