@@ -46,19 +46,16 @@ author_profile: true
     </details>
 
 
+* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
+
  
- * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve_](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
+ * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf)
     <details>
     <summary> Abstract: </summary>
     <br>
     <p align="justify">  Car use imposes costly environmental externalities. We investigate to what extent car trips could be shifted to low-emission modes, avoided via teleworking, or improved via a transition to electric vehicles in the context of daily mobility in the Paris area. We derive counterfactual travel times for 45,000 car trips from a representative transport survey, and formulate modal shift scenarios including a maximum acceptable increase in travel time. For a daily travel time increase below 10 min, 46% of drivers could shift to e-bike – mostly – or public transit – rarely –, with half of them benefiting from a travel time decrease. Such modal shift would reduce daily mobility emissions by 15% and generate annual climate and health benefits worth €125 million. Factors such as living in the far suburbs, being male, or having a high income, are associated with inability to shift modes. Teleworking two days a week could save an additional 5% of emissions. Holding demand for mobility and public transport infrastructure fixed, greater emission reductions require improving cars' environmental performance via a transition to electric vehicles.
     </p>
     </details>
-
-
-
-* __[Why investing in new nuclear plants is bad for the climate](https://www.cell.com/joule/pdf/S2542-4351(23)00281-7.pdf)__.(with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
-
 
   
 ## Work in progress

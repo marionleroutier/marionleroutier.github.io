@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marion Leroutier"
   avatar           : "profile.png"
-  bio              : "Post-doctoral researcher at the Mistra Centre for Sustainable Markets (Misum) & Stockholm School of Economics (SSE)"
-  location         : "Stockholm, Sweden"
+  bio              : "Postdoctoral fellow at the Institute for Fiscal Studies (IFS)"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=78MafrcAAAAJ&hl=fr"
-  email            :  "marion.leroutier@hhs.se" 
+  email            :  "marion.leroutier@ifs.org.uk" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
