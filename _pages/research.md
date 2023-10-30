@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Job Market Paper) [[Latest version]](https://marionleroutier.github.io/files/LeroutierOllivier_2023_CostPollution.pdf)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Job Market Paper) (email for latest version)
     <details>
     <summary> Abstract: </summary>
     <br>
@@ -61,10 +61,8 @@ author_profile: true
 ## Work in progress
 
 * __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
-* __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman 
-* __Gender, Carbon Footprint and Environmental Attitudes__, with Julius Andersson, Maria Berlin, Pamela Campa and Caroline Coly 
+* __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman
 * __Peer Effects in Pro-Environmental Behaviours__, with Vincent Bagilet and Théo Konc 
-* __The Health and Economic Benefits from Cycling__, with Emilie Schwarz, Kevin Jean, Philippe Quirion and Audrey de Nazelle 
  
 ## Policy and outreach
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
