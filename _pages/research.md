@@ -8,11 +8,12 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Updated version coming soon)  [[Latest Version]](https://marionleroutier.github.io/files/LeroutierOllivier_2023_CostPollution.pdf)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Updated version coming soon)  
     <details>
     <summary> Abstract: </summary>
     <br>
-    <p align="justify">  Poor air quality negatively affects workers' health and cognitive functions, but we know little about the countrywide consequences for firms. In this paper, we estimate the causal effects of fine particulate matter (PM2:5) exposure on workers' absenteeism and firms' monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases worker absenteeism in the same month by 1% and reduces sales in manufacturing, construction, and professional services, with different lags. Sales losses are several orders of magnitude larger than what we would expect if workers' absenteeism was the only factor affecting firms' performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers. We estimate that reducing air pollution in France in line with the World Health Organization's guidelines would have avoided sales losses worth around 6 billion euros every year (0.3% of the French GDP).
+    <p align="justify">  Poor air quality negatively affects workers’ health and cognitive functions, but we know little about the countrywide consequences for firms. In this paper, we estimate the causal effects of fine particulate matter (PM2.5) exposure on workers’ absenteeism and firms’ monthly sales using unique employer-employee data and granular measures of air pollution in France from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10% increase in monthly PM2.5 exposure increases worker absenteeism in the same month by 1.1% and reduces sales in manufacturing, construction, and business-to-consumer services, with different lags. Sales losses are several orders of magnitude larger than what we would expect if workers’ absenteeism was the only factor affecting firms’ performance. This suggests a potentially large effect of pollution on the productivity of non-absent workers or consumer demand. We estimate that reducing air pollution in France in line with the World Health Organization’s guidelines on maximum daily exposure to PM2.5 would have avoided sales losses worth around 20 billion euros every year.
+
     </p>
     </details> 
 
