@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Job Market Paper) (email for latest version)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Updated version coming soon)  [[Latest Version]](https://marionleroutier.github.io/files/LeroutierOllivier_2023_CostPollution.pdf)
     <details>
     <summary> Abstract: </summary>
     <br>
