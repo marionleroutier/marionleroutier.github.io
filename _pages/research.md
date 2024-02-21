@@ -62,7 +62,7 @@ author_profile: true
 
 * __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
 * __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman
-* __Peer Effects in Pro-Environmental Behaviours__, with Vincent Bagilet and Théo Konc 
+* __The Gender Gap in Carbon Footprint__, with Ondine Berland
  
 ## Policy and outreach
 * [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, January 2024
