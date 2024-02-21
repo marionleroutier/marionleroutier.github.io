@@ -46,7 +46,7 @@ author_profile: true
     </details>
 
 
-* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/)  
+* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/), [Focus](https://www.focus.de/earth/experten/drei-experten-rechnen-vor-warum-es-schlecht-fuers-klima-ist-neue-klimafreundliche-akw-zu-bauen_id_259649101.html)
 
  
  * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf). __Media Coverage__: France Culture
@@ -57,7 +57,7 @@ author_profile: true
     </p>
     </details>
 
-  
+
 ## Work in progress
 
 * __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
@@ -65,7 +65,7 @@ author_profile: true
 * __The Gender Gap in Carbon Footprint__, with Ondine Berland
  
 ## Policy and outreach
-* [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, January 2024
+* [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
 
