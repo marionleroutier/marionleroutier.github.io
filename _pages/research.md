@@ -25,7 +25,16 @@ author_profile: true
     </p>
     </details>
 
+
+## Work in progress
+
+* __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
+* __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman
+* __The Gender Gap in Carbon Footprint__, with Ondine Berland
+
 ## Publications
+
+### Clean energy transition
 
 * __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/about-us/news/news-from-misum/2023/power-sector-decarbonisation/). __Media Coverage__: [The Economist](https://www.economist.com/finance-and-economics/2023/06/01/what-does-the-perfect-carbon-price-look-like),  [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)  
     <details>
@@ -35,7 +44,10 @@ author_profile: true
     </p>
     </details>
 
-   
+* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/), [Focus](https://www.focus.de/earth/experten/drei-experten-rechnen-vor-warum-es-schlecht-fuers-klima-ist-neue-klimafreundliche-akw-zu-bauen_id_259649101.html)
+
+
+### Greening urban transport
 
 * __[Air Pollution and CO2 from Daily Mobility: Who Emits and Why? Evidence from Paris](https://www.sciencedirect.com/science/article/pii/S0140988322001189)__. (with Philippe Quirion). _Energy Economics_, Volume 109, May 2022. [[Replication package]](https://osf.io/pnyzk/), [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2022_wp_emissions_Paris.pdf). __Media Coverage__: [Actu Environnement](https://www.actu-environnement.com/ae/news/pollution-air-etude-profil-conducteur-plus-emetteurs-paris-39481.php4)
     <details>
@@ -44,11 +56,7 @@ author_profile: true
     <p align="justify"> Urban road transport is an important source of local pollution and carbon emissions. Designing effective and fair policies tackling these externalities requires understanding who contributes to emissions today. We estimate individual transport-induced pollution footprints combining a travel demand survey from the Paris area with NOx, PM2.5 and CO2 emission factors. We find that the top 20% emitters contribute 75-85% of emissions on a representative weekday. They combine longer distances travelled, a high car modal share and, especially for local pollutants, a higher emission intensity of car trips. Living in the suburbs, being a man and being employed are the most important characteristics associated with top emissions. Among the employed, those commuting from suburbs to suburbs, working at a factory, with atypical working hours or with a manual, shopkeeping or top executive occupation are more likely to be top emitters. Finally, policies targeting local pollution may be more regressive than those targeting CO2 emissions, due to the different correlation between income and the local pollutant vs. CO2 emission intensity of car trips.     
     </p>
     </details>
-
-
-* __[Why investing in new nuclear plants is bad for the climate](https://www.sciencedirect.com/science/article/pii/S2542435123002817)__. (with Luke Haywood and Robert Pietzcker). _Joule, Commentary_, 1663–1678, August 2023. __Media Coverage__: [Euractiv](https://www.euractiv.com/section/energy-environment/news/investing-in-new-nuclear-is-bad-for-the-climate-green-advocates-say/), [PV Magazine](https://www.pv-magazine.com/2023/08/22/new-research-shows-renewables-are-more-profitable-than-nuclear-power/), [Focus](https://www.focus.de/earth/experten/drei-experten-rechnen-vor-warum-es-schlecht-fuers-klima-ist-neue-klimafreundliche-akw-zu-bauen_id_259649101.html)
-
- 
+    
  * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf). __Media Coverage__: France Culture
     <details>
     <summary> Abstract: </summary>
@@ -57,12 +65,14 @@ author_profile: true
     </p>
     </details>
 
+* __The untapped health and climate potential of cycling in France: a national assessment from individual travel data__ (with Emilie Schwarz, Audrey de Nazelle, Philippe Quirion and Kévin Jean). Forthcoming at _The Lancet Regional Health - Europe_, March 2024. [[Working Paper]](https://www.medrxiv.org/content/10.1101/2023.04.04.23288155v5). __Media Coverage__: [Le Monde](https://www.lemonde.fr/sciences/article/2024/02/23/le-velo-un-medicament-efficace-et-economique_6218083_1650684.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)
+    <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify">  Promoting active modes of transportation may generate important public health and climate mitigation benefits. We assess mortality and morbidity impacts of cycling in a country with relatively low levels of cycling, France, along with associated monetary benefits. We use individual data from a nationally-representative mobility survey conducted in 2019. We conducted a burden of disease analysis to assess the incidence of five chronic diseases and numbers of deaths prevented by cycling, based on national incidence and mortality data and dose-response relationships from meta-analyses. We assessed the corresponding direct medical cost savings and the intangible costs prevented based on the value of a statistical life year. The French adult (20-89 years) population was estimated to cycle on average of 1min 17sec per person per day in 2019, with important heterogeneity across gender and age. This yielded benefits of 1,919 (uncertainty interval, UI: 1,101-2,736) premature deaths and 5,963 (UI: 3,178-8,749) chronic disease cases prevented, with males enjoying nearly 75% of these benefits. Direct medical costs prevented were estimated at €191 million (UI: 98-285) annually, while the corresponding intangible costs were nearly 25 times higher (€4.8 billion, UI: 3.0-6.5). On average, €1.02 (UI: 0.59-1.62) of intangible costs were prevented for every km cycled. Shifting 25% of short car trips to biking would yield approximatively a 2-fold increase in the number of deaths prevented, while also reducing CO2 emissions by 0.257 MtCO2e (UI: 0.231-0.288). 
+    </p>
+    </details>
 
-## Work in progress
-
-* __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
-* __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman
-* __The Gender Gap in Carbon Footprint__, with Ondine Berland
  
 ## Policy and outreach
 * [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
