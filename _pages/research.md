@@ -65,7 +65,7 @@ author_profile: true
     </p>
     </details>
 
-* __The untapped health and climate potential of cycling in France: a national assessment from individual travel data__ (with Emilie Schwarz, Audrey de Nazelle, Philippe Quirion and Kévin Jean). Forthcoming at _The Lancet Regional Health - Europe_, March 2024. [[Working Paper]](https://www.medrxiv.org/content/10.1101/2023.04.04.23288155v5). __Media Coverage__: [Le Monde](https://www.lemonde.fr/sciences/article/2024/02/23/le-velo-un-medicament-efficace-et-economique_6218083_1650684.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)
+* __[The untapped health and climate potential of cycling in France: a national assessment from individual travel data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00040-1/fulltext#%20)__ (with Emilie Schwarz, Audrey de Nazelle, Philippe Quirion and Kévin Jean). _The Lancet Regional Health - Europe_, February 2024. __Media Coverage__: [Le Monde](https://www.lemonde.fr/sciences/article/2024/02/23/le-velo-un-medicament-efficace-et-economique_6218083_1650684.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)
     <details>
     <summary> Abstract: </summary>
     <br>
