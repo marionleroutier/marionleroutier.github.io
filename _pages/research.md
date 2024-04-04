@@ -29,7 +29,7 @@ author_profile: true
 ## Work in progress
 
 * __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
-* __Cycling Infrastructures and Voting__, with Léa Bou-Sleiman
+* __Cycling Infrastructures, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 * __The Gender Gap in Carbon Footprint__, with Ondine Berland
 
 ## Publications
@@ -75,6 +75,7 @@ author_profile: true
 
  
 ## Policy and outreach
+* [in French], [Le vélo, un potentiel inexploité pour améliorer la santé (et le climat)](https://theconversation.com/le-velo-un-potentiel-inexploite-pour-ameliorer-la-sante-et-le-climat-225010), with Kévin Jean, Audrey de Nazelle and Philippe Quirion, The Conversation, April 2024
 * [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
