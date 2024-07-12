@@ -16,20 +16,11 @@ author_profile: true
     </p>
     </details> 
 
-                 
-* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki and Marie-Abele Bind [[Latest version]](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
-    <details>
-    <summary> Abstract: </summary>
-    <br>
-    <p align="justify"> We propose a new approach to estimate the causal effects of maritime traffic on air pollution when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
-    </p>
-    </details>
-
-
 ## Work in progress
 
-* __The Long-term and Cumulative Effects of Air Pollution__, with Julia Mink, Hélène Ollivier and Aurélien Saussay
-* __Cycling Infrastructures, Environmental Amenities and Voting__, with Léa Bou-Sleiman
+* __The Long-term and Cumulative Effects of Air Pollution: Evidence from the French Early Coal Phase-Out__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
+* __Who Benefitted from Two Decades of Air Quality Improvement in the UK?__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
+* __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 * __The Gender Gap in Carbon Footprint__, with Ondine Berland
 
 ## Publications
@@ -73,11 +64,20 @@ author_profile: true
     </p>
     </details>
 
- 
+
 ## Policy and outreach
 * [in French], [Le vélo, un potentiel inexploité pour améliorer la santé (et le climat)](https://theconversation.com/le-velo-un-potentiel-inexploite-pour-ameliorer-la-sante-et-le-climat-225010), with Kévin Jean, Audrey de Nazelle and Philippe Quirion, The Conversation, April 2024
 * [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
 
+## Resting 
+             
+* __Estimating the Local Air Pollution Impacts of Maritime Traffic: A Principled Approach for Observational Data__, with Leo Zabrocki and Marie-Abele Bind [[Latest version]](https://marionleroutier.github.io/files/ZabrockiLeroutierBind_2022_wp_pollution_boats.pdf)
+    <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> We propose a new approach to estimate the causal effects of maritime traffic on air pollution when natural or policy experiments are not available. We apply this method to the case of Marseille, a large Mediterranean port city, where air pollution emitted by cruise vessels is a growing concern. Using a recent matching algorithm designed for time series data, we create hypothetical randomized experiments to estimate the change in local air pollution caused by a short-term increase in cruise traffic. We then rely on randomization inference to compute nonparametric 95% uncertainty intervals. We find that cruise vessels’ arrivals have large impacts on city-level hourly concentrations of nitrogen dioxide, particulate matter, and sulfur dioxide. At the daily level, road traffic seems however to have a much larger impact than cruise traffic. Our procedure also helps assess in a transparent manner the identification challenges specific to this type of high-frequency time series data.
+    </p>
+    </details>
 
