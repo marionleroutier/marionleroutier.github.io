@@ -8,20 +8,33 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Updated version coming soon)  
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (Updated draft coming soon; email for latest version)  
     <details>
     <summary> Abstract: </summary>
     <br>
-    <p align="justify"> This paper shows that even moderate levels of air pollution, such as those found in Europe, harm the economy by decreasing firm performance. We estimate the causal effect of fine particulate matter pollution (PM2.5) on firms’ monthly sales and worker absenteeism using matched employer-employee data from France and granular measures of air pollution from 2009 to 2015. We exploit variation in air pollution induced by changes in monthly wind directions at the postcode level. We find that a 10 percent increase in monthly PM2.5 exposure decreases sales in the following two months by 0.4 percent on average. This effect hides heterogeneous across economic sectors, with lower effects for manufacturing, construction and business-to-business trade and services, and larger effects for retail and business-to-consumer services, serving a local demand. Concurrently, worker absenteeism due to sick leave increases by 1 percent, underscoring the negative effects of air pollution on workers’ health. Yet sales losses are an order of magnitude larger than we would expect if worker absenteeism was the only factor via which air pollution affects sales. This suggests a potentially large effect of air pollution on the productivity of non-absent workers, for which we find suggestive evidence, and on local demand.
+    <p align="justify"> This paper shows that even moderate levels of air pollution, such as those found in Europe, harm the economy by decreasing firm performance. We estimate the causal effect of fine particulate matter pollution (PM2.5) on firms' monthly sales and worker absenteeism using matched employer-employee data from France from 2009 to 2015. We exploit within-municipality variation in air pollution induced by changes in monthly wind direction. We find that a 10 percent increase in monthly PM2.5 exposure decreases sales in the following two months by 0.4 percent on average, with heterogeneous effects across economic sectors. Concurrently, worker absenteeism due to sick leave increases by 1 percent, underscoring the negative effects of air pollution on workers' health. Yet sales losses are an order of magnitude larger than we would expect if worker absenteeism was the main channel underlying sales decrease. A heterogeneity analysis by sector and industry highlights two other important mechanisms: air pollution also decreases the productivity of non-absent workers, and depresses local demand. Our results suggest that reducing air pollution in line with the World Health Organization's guidelines generates economic benefits largely exceeding the cost of environmental regulation in France.
     </p>
     </details> 
 
 ## Work in progress
 
+* __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft coming soon)
+    <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> This paper documents a significant gender gap in carbon footprint in the food and transport sectors, two consumption categories accounting for around half of households' carbon emissions in developed countries. Based on representative individual-level surveys from France matched with detailed product-level emission intensities, we estimate that women emit 25% less carbon than men. The gap exists both for individuals living in a couple and single individuals, and it decreases to 17% after controlling for age, education, income, location and employment status. Women's lower emissions are not only explained by biological reasons such as lower calorie requirements ; women's food consumption and trips also have a lower emission intensity. In particular they consume relatively less red meat and travel less by car, two high-emission goods. We disccuss the implications of the gender gap in carbon footprint for the political economy of climate policy and its link to other documented gender gap in green attitudes and behaviours.
+    </p>
+    </details>
 * __The Long-term and Cumulative Effects of Air Pollution: Evidence from the French Early Coal Phase-Out__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
+    <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> This project aims to quantify the long-term societal cost of exposure to ambient air pollution. We consider a natural experiment that permanently decreased air pollution exposure in part of France in the 1980s: the early shutdown of coal and oil plants in the context of the transition to nuclear power. We use longitudinal census data combined with historical plant-level electricity data and an emission transport model to build novel measures of individual-level cumulative exposure to air pollution since the 1970s, accounting for lifelong residential history. We investigate the impact of air quality improvements induced by power plant closure on the health, educational and employment outcomes of exposed birth cohorts. 
+    </p>
+    </details> 
 * __Who Benefitted from Two Decades of Air Quality Improvement in the UK?__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
-* __The Gender Gap in Carbon Footprint__, with Ondine Berland
+
 
 ## Publications
 
