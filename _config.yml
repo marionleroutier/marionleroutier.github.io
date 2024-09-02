@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marion Leroutier"
   avatar           : "profile.png"
-  bio              : "Postdoctoral fellow at the Institute for Fiscal Studies (IFS)"
-  location         : "London, UK"
+  bio              : "Assistant Professor at CREST-ENSAE"
+  location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=78MafrcAAAAJ&hl=fr"
-  email            :  "marion.leroutier@ifs.org.uk" 
+  email            :  "marion.leroutier@ensae.fr" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
