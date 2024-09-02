@@ -12,7 +12,7 @@ redirect_from:
 [Full CV](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 ### Current position
 
-* 2023-2024: Postdoctoral fellow, Institute for Fiscal Studies, London
+* 2024-: Assistant Professor at CREST-ENSAE
 
 ### Education
 
@@ -25,8 +25,9 @@ redirect_from:
 
 ### Past positions
 
-* 2021-2023: Postdoctoral researcher, Misum, Stockholm School of Economics
-* 2019-2021: Teaching Fellow, University Paris 1
+* 2023-2024: Postdoctoral fellow, Institute for Fiscal Studies, London
+* 2021-2023: Postdoctoral researcher, Misum, Stockholm School of Economics, Stockholm
+* 2019-2021: Teaching Fellow, University Paris 1, Paris
 * 2017-2018: Senior consultant in social impact evaluation, Kimso, Paris
 * 2015-2017: Economic consultant, Frontier Economics, London
 

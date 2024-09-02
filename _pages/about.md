@@ -12,7 +12,7 @@ __Welcome to my website!__
 
 * I'm an __applied environmental economist__ focusing on two major environmental issues, __ambient air pollution__ and __climate change__.
 
-* I'm currently a __postdoctoral fellow__ at the <a href="https://ifs.org.uk/">__Institute for Fiscal Studies__</a> in London.  In September 2024, I will join <a href="https://crest.science/about-2/">__CREST__</a> and <a href="https://www.ensae.fr/en">__ENSAE__</a> in Paris as an __Assistant Professor__. I'm also a research affiliate at <a href="https://www.hhs.se/misum">__Misum__</a> and the <a href="https://www.ipp.eu/en/">__IPP__</a>.
+* I'm an __Assistant Professor__ at <a href="https://crest.science/about-2/">__CREST__</a> and <a href="https://www.ensae.fr/en">__ENSAE__</a> in Paris.  I'm also a research affiliate at the <a href="https://ifs.org.uk/">__IFS__</a>, <a href="https://www.hhs.se/misum">__Misum__</a> and the <a href="https://www.ipp.eu/en/">__IPP__</a>.
 
 * My __current research__ seeks to answer three broad questions, mostly in the European context:  
   1. What are the __societal costs of air pollution__? including health and non-health effects.  
