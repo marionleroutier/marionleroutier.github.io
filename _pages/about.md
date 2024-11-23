@@ -21,8 +21,7 @@ __Welcome to my website!__
 
 * I completed my __PhD__ at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>. I received the 2022 Best Doctoral Dissertation Award from the European Association of Environmental and Resource Economists (EAERE).
  
-* Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ <a href="http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf">here</a>.
-
+* Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
 <br><br><br><br>
 
@@ -41,7 +40,7 @@ __Bienvenue sur mon site !__
   2. A quel point les politiques d'atténuation du changement climatiques ont-elles des __co-bénéfices en matière de santé publique__ ?
   3. Quels sont les __déterminants du soutien aux politiques environnementales__ ?
    
-* Vous trouvere la liste de mes publications et articles de dissémination à la page "Research" et un __cv__ <a href="http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf">ici</a>. N'hésitez pas à me contacter à marion.leroutier(at)ensae.fr  
+* Vous trouvere la liste de mes publications et articles de dissémination à la page "Research" et un __cv__ [ici](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf). N'hésitez pas à me contacter à marion.leroutier(at)ensae.fr  
 
 
   
