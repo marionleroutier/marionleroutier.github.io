@@ -16,27 +16,29 @@ author_profile: true
     </p>
     </details> 
 
-## Work in progress
-
-* __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft coming soon)
+* __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft available upon request)
     <details>
     <summary> Abstract: </summary>
     <br>
     <p align="justify"> This paper documents a significant gender gap in carbon footprints in food and transport, two categories accounting for half of individuals’ carbon footprints in high-income countries. Using representative individual-level data from France matched with detailed product-level emission intensities, we find that women emit 27% less carbon than men. This gap persists both among couples and single individuals and narrows down to 17% when controlling for age, education, income, location and employment status. Women’s lower emissions are not only explained by lower calorie requirements and shorter distances travelled (scale effect). Women also consume less carbon-intensive food products and use lesss carbon-intensive transportation (intensity effect). The magnitude of the gap implies that gender would warrant more consideration in the literature as a relevant dimension of footprint inequality and distributional effects of climate policy. The gender gap in carbon footprint could act both as a determinant and a consequence of other climate-related gender gaps, such as the gap in climate concerns or in pro-environmental behaviors.
     </p>
     </details>
-* __The Long-term and Cumulative Effects of Air Pollution: Evidence from the French Early Coal Phase-Out__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
+
+## Work in progress
+
+* __The Long-term and Cumulative Effects of Air Pollution: Historical Evidence from France__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
     <details>
     <summary> Abstract: </summary>
     <br>
     <p align="justify"> This project aims to quantify the long-term societal cost of exposure to ambient air pollution. We consider a natural experiment that permanently decreased air pollution exposure in part of France in the 1980s: the early shutdown of coal and oil plants in the context of the transition to nuclear power. We use longitudinal census data combined with historical plant-level electricity data and an emission transport model to build novel measures of individual-level cumulative exposure to air pollution since the 1970s, accounting for lifelong residential history. We investigate the impact of air quality improvements induced by power plant closure on the health, educational and employment outcomes of exposed birth cohorts. 
     </p>
     </details> 
-* __Who Benefitted from Two Decades of Air Quality Improvement in the UK?__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
+    
+* __Coal Phase-Out, Health and Human Capital__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 
 
-## Publications
+## Peer-reviewed publications
 
 ### Clean energy transition
 
@@ -78,7 +80,8 @@ author_profile: true
     </details>
 
 
-## Policy and outreach
+## Policy publications and outreach
+* [Exposure to air pollution in England, 2003–23](https://ifs.org.uk/publications/exposure-air-pollution-england-2003-23), with Lucie Gadenne, Rodrigo Toneto and Bobbie Upton, IFS Report, December 2024. __Media Coverage__: [The Independent](https://www.independent.co.uk/climate-change/news/research-england-institute-for-fiscal-studies-world-health-organisation-covid-b2659805.html)
 * [in French], [Le vélo, un potentiel inexploité pour améliorer la santé (et le climat)](https://theconversation.com/le-velo-un-potentiel-inexploite-pour-ameliorer-la-sante-et-le-climat-225010), with Kévin Jean, Audrey de Nazelle and Philippe Quirion, The Conversation, April 2024
 * [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
