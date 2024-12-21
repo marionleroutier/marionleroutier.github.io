@@ -19,7 +19,7 @@ __Welcome to my website!__
   2. To what extent do climate policies deliver __health co-benefits__? with an emphasis on the transport and electricity sectors.
   3. What are the __determinants of support for green policies__? with an emphasis on social norms and identity.
 
-* I completed my __PhD__ at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>. I received the 2022 Best Doctoral Dissertation Award from the European Association of Environmental and Resource Economists (EAERE).
+* I completed my __PhD__ at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>. 
  
 * Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
