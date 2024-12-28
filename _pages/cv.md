@@ -16,7 +16,7 @@ redirect_from:
 
 ### Education
 
-* 2018-2021: Ph.D in Economics, Paris School of Economics, University Paris 1 and CIRED. 
+* 2018-2021: Ph.D in Economics, <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a>, University Paris 1 and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>.
 
 *<a href="https://www.eaere.org/best-european-doctoral-dissertation-award/">Best Doctoral Dissertation Award </a> from the European Association of Environmental and Resource Economists and <a href="https://www.sorbonne.fr/wp-content/uploads/Liste-Laur%C3%A9ats-PDC-2022.pdf">1st Prize of the PhD Award in Economics</a> from the Chancellerie des Universités de Paris.*
 
