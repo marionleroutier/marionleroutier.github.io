@@ -63,7 +63,7 @@ author_profile: true
     </p>
     </details>
     
- * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf). __Media Coverage__: France Culture
+ * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf). __Media Coverage__ (in French) : [The Conversation](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), France Culture
     <details>
     <summary> Abstract: </summary>
     <br>
@@ -71,7 +71,7 @@ author_profile: true
     </p>
     </details>
 
-* __[The untapped health and climate potential of cycling in France: a national assessment from individual travel data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00040-1/fulltext#%20)__ (with Emilie Schwarz, Audrey de Nazelle, Philippe Quirion and Kévin Jean). _The Lancet Regional Health - Europe_, February 2024. __Media Coverage__: [Le Monde](https://www.lemonde.fr/sciences/article/2024/02/23/le-velo-un-medicament-efficace-et-economique_6218083_1650684.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)
+* __[The untapped health and climate potential of cycling in France: a national assessment from individual travel data](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00040-1/fulltext#%20)__ (with Emilie Schwarz, Audrey de Nazelle, Philippe Quirion and Kévin Jean). _The Lancet Regional Health - Europe_, February 2024. __Media Coverage__ (in French): [The Conversation](https://theconversation.com/le-velo-un-potentiel-inexploite-pour-ameliorer-la-sante-et-le-climat-225010), [Le Monde](https://www.lemonde.fr/sciences/article/2024/02/23/le-velo-un-medicament-efficace-et-economique_6218083_1650684.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default)
     <details>
     <summary> Abstract: </summary>
     <br>
@@ -80,13 +80,9 @@ author_profile: true
     </details>
 
 
-## Policy publications and outreach
+## Policy publications
 * [Exposure to air pollution in England, 2003–23](https://ifs.org.uk/publications/exposure-air-pollution-england-2003-23), with Lucie Gadenne, Rodrigo Toneto and Bobbie Upton, IFS Report, December 2024. __Media Coverage__: [The Independent](https://www.independent.co.uk/climate-change/news/research-england-institute-for-fiscal-studies-world-health-organisation-covid-b2659805.html)
-  
-* [in French], [Le vélo, un potentiel inexploité pour améliorer la santé (et le climat)](https://theconversation.com/le-velo-un-potentiel-inexploite-pour-ameliorer-la-sante-et-le-climat-225010), with Kévin Jean, Audrey de Nazelle and Philippe Quirion, The Conversation, April 2024
-  
-* [in French], [Le vélo, meilleur atout pour réduire la pollution et les temps de trajet - L'exemple de l'Île de France](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), with Philippe Quirion, The Conversation, January 2024
-  
+   
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
   
 * [in French], [Connaître et réduire les émissions polluantes dues au transport routier en Ile-de-France](https://www.construction21.org/france/articles/h/dossier-mobilites-26-connaitre-et-reduire-les-emissions-polluantes-dues-au-transport-routier-en-ile-de-france.html), with Philippe Quirion, Dossiers Mobilités Décarbonées: Enjeux et Solutions, Cerema & Construction 21, April 2021
