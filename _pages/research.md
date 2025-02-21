@@ -38,7 +38,9 @@ author_profile: true
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 
 
-## Peer-reviewed publications in economics journals
+## Peer-reviewed publications 
+
+### Economics journals
 
 * __[Carbon Pricing and Power Sector Decarbonisation: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0095069621001285?via%3Dihub)__. _Journal of Environmental Economics and Management (JEEM)_, Volume 111, January 2022. [[Working Paper]](https://marionleroutier.github.io/files/Leroutier_2021_wp_UK_tax.pdf), [[Lay Summary]](https://www.hhs.se/en/about-us/news/news-from-misum/2023/power-sector-decarbonisation/). __Media Coverage__: [The Economist](https://www.economist.com/finance-and-economics/2023/06/01/what-does-the-perfect-carbon-price-look-like),  [L'Usine nouvelle](https://www.usinenouvelle.com/editorial/au-royaume-uni-la-taxe-carbone-sur-la-production-electrique-a-booste-la-transition-du-secteur.N1168297)  
     <details>
@@ -58,7 +60,7 @@ author_profile: true
 
 
     
-## Peer-reviewed publications in transdisciplinary journals
+### Transdisciplinary journals
     
  * __[Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve](https://www.sciencedirect.com/science/article/pii/S0921800923002148)__. (with Philippe Quirion). _Ecological Economics_, Volume 213, November 2023. [[Working Paper]](https://marionleroutier.github.io/files/LeroutierQuirion_2023_wp_ShiftAvoidImprove.pdf). __Media Coverage__ (in French) : [The Conversation](https://theconversation.com/le-velo-meilleur-atout-pour-reduire-la-pollution-et-les-temps-de-trajet-lexemple-de-lile-de-france-219509?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1704540784), France Culture
     <details>
