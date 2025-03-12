@@ -8,13 +8,14 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_cost_air_pollution_firms.pdf)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf)
     <details>
     <summary> Abstract: </summary>
     <br>
     <p align="justify"> This paper shows that even moderate air pollution levels, such as those in Europe, harm the economy by reducing firm performance. Using monthly firm-level data from France, we estimate the causal impact of fine particulate matter (PM2.5) on sales and worker absenteeism. Leveraging exogenous pollution shocks from local wind direction changes, we find that a 10 percent increase in monthly PM2.5 exposure reduces firm sales by 0.4 percent on average over the next two months, with sector-specific variation. Simultaneously, sick leave rises by 1 percent. However, this labor supply reduction explains only part of the sales decline. Our evidence suggests that air pollution also reduces worker productivity and dampens local demand. Aligning air quality with WHO guidelines would yield economic benefits on par with the costs of regulation or the health benefits from reduced mortality.
     </p>
     </details> 
+    Recent presentations: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, ERUDITE
 
 * __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft available upon request)
     <details>
@@ -23,6 +24,7 @@ author_profile: true
     <p align="justify">Understanding the distribution of carbon emissions across population groups is crucial for designing fair and acceptable climate policies. We uncover a significant gender gap in carbon footprints using individual-level data from France on food consumption and transport use, two categories representing half of individuals’ emissions, matched with product-level emission intensities. Women’s footprints are 26% lower than men’s on average. The gap is found among couples and singles, and narrows down to 18% when controlling for socioeconomic characteristics. Women’s lower emissions are not only explained by their lower calorie requirements and shorter distances traveled: 25% of the food emissions gap and 38% of the transport emission gap remain unexplained after accounting for socioeconomic factors and the scale of consumption. Emissions from red meat and cars, two high-pollution goods, make up a disproportionate share of the residual gap, highlighting the potential role of consumption preferences and occupational choices tied to gender identity.
     </p>
     </details>
+    Recent presentations: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author)
 
 ## Work in progress
 
