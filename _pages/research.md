@@ -26,7 +26,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     </p>
     </details>
 
-_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference*, EAERE 2025*
+_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, EAERE 2025*
 
 ## Work in progress
     
@@ -36,7 +36,7 @@ _Recent and upcoming [*] presentations_: Misum conference*
 
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 
-_Recent and upcoming [*] presentations_: WZB workshop on Climate change expectations*
+_Recent and upcoming [*] presentations_: WZB workshop on expectations of climate change*
 
 * __The Long-term and Cumulative Effects of Air Pollution: Historical Evidence from France__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
     <details>
