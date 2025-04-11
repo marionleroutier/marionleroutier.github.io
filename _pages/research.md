@@ -10,7 +10,7 @@ author_profile: true
 
 * __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf)
     <details>
-    <summary> Abstract: </summary>
+    <summary> Click for abstract: </summary>
     <br>
     <p align="justify"> This paper shows that even moderate air pollution levels, such as those in Europe, harm the economy by reducing firm performance. Using monthly firm-level data from France, we estimate the causal impact of fine particulate matter (PM2.5) on sales and worker absenteeism. Leveraging exogenous pollution shocks from local wind direction changes, we find that a 10 percent increase in monthly PM2.5 exposure reduces firm sales by 0.4 percent on average over the next two months, with sector-specific variation. Simultaneously, sick leave rises by 1 percent. However, this labor supply reduction explains only part of the sales decline. Our evidence suggests that air pollution also reduces worker productivity and dampens local demand. Aligning air quality with WHO guidelines would yield economic benefits on par with the costs of regulation or the health benefits from reduced mortality.
     </p>
@@ -20,7 +20,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
 
 * __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft available upon request)
     <details>
-    <summary> Abstract: </summary>
+    <summary> Click for abstract: </summary>
     <br>
     <p align="justify">Using detailed consumption data, we show that women in France emit 26% less carbon than men through food and transport, which together make up half of individual carbon footprint. This gap exists for couples and singles and narrows to 18% when accounting for socioeconomic factors. Biological differences and gender differences in distances traveled explain part of the gap, but up to 38% remains unexplained. Red meat and car use — high-emission goods tied to male identity — drive most of the residual, pointing to the role of gendered preferences and social norms in shaping carbon inequality.
     </p>
@@ -40,7 +40,7 @@ _Recent and upcoming [*] presentations_: WZB workshop on expectations of climate
 
 * __The Long-term and Cumulative Effects of Air Pollution: Historical Evidence from France__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
     <details>
-    <summary> Abstract: </summary>
+    <summary> Click for abstract: </summary>
     <br>
     <p align="justify"> This project aims to quantify the long-term societal cost of exposure to ambient air pollution. We consider a natural experiment that permanently decreased air pollution exposure in part of France in the 1980s: the early shutdown of coal and oil plants in the context of the transition to nuclear power. We use longitudinal census data combined with historical plant-level electricity data and an emission transport model to build novel measures of individual-level cumulative exposure to air pollution since the 1970s, accounting for lifelong residential history. We investigate the impact of air quality improvements induced by power plant closure on the health, educational and employment outcomes of exposed birth cohorts. 
     </p>
