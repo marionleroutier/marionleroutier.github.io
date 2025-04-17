@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-   - /about_fr.html
+layout: page
+title: "À propos"
+permalink: /about-fr/
+lang: fr
 ---
 
 __Bienvenue sur mon site !__
