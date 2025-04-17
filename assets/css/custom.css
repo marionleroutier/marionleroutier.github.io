@@ -1,0 +1,15 @@
+.lang-switcher {
+  background: #007acc;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+}
+.lang-switcher:hover {
+  background: #005f99;
+}
