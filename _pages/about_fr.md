@@ -1,3 +1,11 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+   - /about_fr.html
+---
 
 __Bienvenue sur mon site !__
 
