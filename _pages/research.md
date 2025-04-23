@@ -18,11 +18,13 @@ author_profile: true
   
 _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, EAERE 2025*
 
-* __The Gender Gap in Carbon Footprint__, with Ondine Berland (Draft available upon request)
+* __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland (Draft available upon request)
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify">Using detailed consumption data, we show that women in France emit 26% less carbon than men through food and transport, which together make up half of individual carbon footprint. This gap exists for couples and singles and narrows to 18% when accounting for socioeconomic factors. Biological differences and gender differences in distances traveled explain part of the gap, but up to 38% remains unexplained. Red meat and car use — high-emission goods tied to male identity — drive most of the residual, pointing to the role of gendered preferences and social norms in shaping carbon inequality.
+    <p align="justify">Understanding the distribution of carbon footprints across population groups is crucial for designing
+fair and acceptable climate policies. Using granular consumption data from France, we quantify the gender gap in carbon footprints related to food and transport and investigate its underlying drivers. We show that women emit 26% less carbon than men in these two sectors, which together account for half of the average individual carbon footprint. Socioeconomic factors, biological differences and gender differences in distances traveled explain part of the gap, but up to 38% remains unexplained.
+Red meat and car — high-emission goods often associated with male identity — account for most of the residual, highlighting the role of gender differences in preferences in shaping disparities in carbon footprints.
     </p>
     </details>
 
