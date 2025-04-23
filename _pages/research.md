@@ -22,9 +22,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify">Understanding the distribution of carbon footprints across population groups is crucial for designing
-fair and acceptable climate policies. Using granular consumption data from France, we quantify the gender gap in carbon footprints related to food and transport and investigate its underlying drivers. We show that women emit 26% less carbon than men in these two sectors, which together account for half of the average individual carbon footprint. Socioeconomic factors, biological differences and gender differences in distances traveled explain part of the gap, but up to 38% remains unexplained.
-Red meat and car — high-emission goods often associated with male identity — account for most of the residual, highlighting the role of gender differences in preferences in shaping disparities in carbon footprints.
+    <p align="justify"> Understanding the distribution of carbon footprints across population groups is crucial for designing fair and acceptable climate policies. Using granular consumption data from France, we quantify the gender gap in carbon footprints related to food and transport and investigate its underlying drivers. We show that women emit 26% less carbon than men in these two sectors, which together account for half of the average individual carbon footprint. Socioeconomic factors, biological differences and gender differences in distances traveled explain part of the gap, but up to 38% remains unexplained. Red meat and car — high-emission goods often associated with male identity — account for most of the residual, highlighting the role of gender differences in preferences in shaping disparities in carbon footprints.
     </p>
     </details>
 
@@ -34,7 +32,7 @@ _Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and env
     
 * __Coal Phase-Out, Health and Human Capital__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
 
-_Recent and upcoming [*] presentations_: Misum conference*
+_Recent and upcoming [*] presentations_: Misum conference
 
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 
