@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
@@ -18,7 +18,7 @@ author_profile: true
   
 _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, EAERE 2025*
 
-* __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland (Draft available upon request)
+* __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland [[GRI Working paper, May 2025]](https://www.lse.ac.uk/granthaminstitute/publication/the-gender-gap-in-carbon-footprints-determinants-and-implications/). __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests), [France 24](https://www.france24.com/en/europe/20250514-red-meat-cars-french-men-carbon-footprint-26-higher-than-women-study-finds)
     <details>
     <summary> Click for abstract: </summary>
     <br>
@@ -26,7 +26,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     </p>
     </details>
 
-_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, EAERE 2025*
+_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference
 
 ## Work in progress
     
