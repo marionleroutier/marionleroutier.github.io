@@ -8,11 +8,11 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[Working paper, June 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_cost_air_pollution_firms.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify"> This paper shows that even moderate air pollution levels, such as those in Europe, harm the economy by reducing firm performance. Using monthly firm-level data from France, we estimate the causal impact of fine particulate matter (PM2.5) on sales and worker absenteeism. Leveraging exogenous pollution shocks from local wind direction changes, we find that a 10 percent increase in monthly PM2.5 exposure reduces firm sales by 0.4 percent on average over the next two months, with sector-specific variation. Simultaneously, sick leave rises by 1 percent. However, this labor supply reduction explains only part of the sales decline. Our evidence suggests that air pollution also reduces worker productivity and dampens local demand. Aligning air quality with WHO guidelines would yield economic benefits on par with the costs of regulation or the health benefits from reduced mortality.
+    <p align="justify"> This paper shows that even moderate air pollution levels can reduce economic activity. Using monthly firm-level data from France and exploiting variation in PM2.5 exposure driven by changes in local wind direction, we find that a 10% increase in pollution decreases firm sales by 0.4% over the following two months. Effects vary by sector and operate through reduced labor supply—with a 1% increase in sick leave—lower productivity, and demand-side responses. Our results suggest that aligning air quality with WHO guidelines could generate economic benefits comparable to the costs of regulation or the health benefits from reduced mortality.
     </p>
     </details> 
   
