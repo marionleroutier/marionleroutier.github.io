@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[Working paper, June 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_cost_air_pollution_firms.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, June 2025]](https://crest.science/wp-content/uploads/2025/03/2025-05.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
