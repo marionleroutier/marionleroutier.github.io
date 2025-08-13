@@ -26,7 +26,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     </p>
     </details>
 
-_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, WZB workshop on expectations of climate change
+_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, WZB workshop on expectations of climate change, LSE Environment Week 2025*
 
 ## Work in progress
     
