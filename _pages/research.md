@@ -8,15 +8,15 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, February 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_CRESTwp.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[CREST Working paper, June 2025]](https://crest.science/wp-content/uploads/2025/03/2025-05.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify"> This paper shows that even moderate air pollution levels, such as those in Europe, harm the economy by reducing firm performance. Using monthly firm-level data from France, we estimate the causal impact of fine particulate matter (PM2.5) on sales and worker absenteeism. Leveraging exogenous pollution shocks from local wind direction changes, we find that a 10 percent increase in monthly PM2.5 exposure reduces firm sales by 0.4 percent on average over the next two months, with sector-specific variation. Simultaneously, sick leave rises by 1 percent. However, this labor supply reduction explains only part of the sales decline. Our evidence suggests that air pollution also reduces worker productivity and dampens local demand. Aligning air quality with WHO guidelines would yield economic benefits on par with the costs of regulation or the health benefits from reduced mortality.
+    <p align="justify"> This paper shows that even moderate air pollution levels can reduce economic activity. Using monthly firm-level data from France and exploiting variation in PM2.5 exposure driven by changes in local wind direction, we find that a 10% increase in pollution decreases firm sales by 0.4% over the following two months. Effects vary by sector and operate through reduced labor supply—with a 1% increase in sick leave—lower productivity, and demand-side responses. Our results suggest that aligning air quality with WHO guidelines could generate economic benefits comparable to the costs of regulation or the health benefits from reduced mortality.
     </p>
     </details> 
   
-_Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, EAERE 2025*
+_Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, EAERE 2025
 
 * __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland [[GRI Working paper, May 2025]](https://www.lse.ac.uk/granthaminstitute/publication/the-gender-gap-in-carbon-footprints-determinants-and-implications/). __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests), [France 24](https://www.france24.com/en/europe/20250514-red-meat-cars-french-men-carbon-footprint-26-higher-than-women-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2025/05/17/plus-de-viande-rouge-et-de-grosses-voitures-pourquoi-les-hommes-emettent-plus-de-co2-que-les-femmes_6606499_3244.html), [Libération](https://www.liberation.fr/environnement/climat/empreinte-carbone-viande-rouge-et-voiture-creusent-lecart-entre-les-femmes-et-les-hommes-20250514_MOQY6FWAJBE3XMXXLROG6VAJ5A/), [France 2 JT (min 26)](https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-jeudi-15-mai-2025_7209831.html), [France culture](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/empreinte-carbone-les-femmes-emettent-moins-de-co2-que-les-hommes-5422083), [Alternatives économiques](https://www.alternatives-economiques.fr/bagnole-steaks-co2-faut-blamer-hommes/00115165), [der Spiegel](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-und-verkehr-maenner-emittieren-26-mehr-emissionen-als-frauen-a-a7358f7c-5470-42af-b5ea-8ba8337b5460)
     <details>
@@ -26,7 +26,7 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     </p>
     </details>
 
-_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference
+_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, WZB workshop on expectations of climate change, LSE Environment Week 2025*
 
 ## Work in progress
     
@@ -35,8 +35,6 @@ _Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and env
 _Recent and upcoming [*] presentations_: Misum conference
 
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
-
-_Recent and upcoming [*] presentations_: WZB workshop on expectations of climate change*
 
 * __The Long-term and Cumulative Effects of Air Pollution: Historical Evidence from France__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
     <details>
