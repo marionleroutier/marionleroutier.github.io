@@ -21,5 +21,10 @@ __Welcome to my website!__
  
 * Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
+* News:
+  * __November 2025__: Organizing and speaking at "Pollution and Health" session at <a href="https://www.journeeseconomie.org/">JECO</a>
+  * __September 2025__: Presenting at <a href="https://www.lse-environment-week.com/">LSE environment week</a>
+  * __July 2025__: Presenting at WZB Berlin Workshop on Expectations of climate change
+
 <br><br><br><br>
 
