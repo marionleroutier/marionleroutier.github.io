@@ -16,7 +16,6 @@ author_profile: true
     </p>
     </details> 
   
-_Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO Lab, Paris Saclay Applied Economics, University of Wageningen, EAERE 2025
 
 * __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland [[GRI Working paper, May 2025]](https://www.lse.ac.uk/granthaminstitute/publication/the-gender-gap-in-carbon-footprints-determinants-and-implications/). __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests), [France 24](https://www.france24.com/en/europe/20250514-red-meat-cars-french-men-carbon-footprint-26-higher-than-women-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2025/05/17/plus-de-viande-rouge-et-de-grosses-voitures-pourquoi-les-hommes-emettent-plus-de-co2-que-les-femmes_6606499_3244.html), [Libération](https://www.liberation.fr/environnement/climat/empreinte-carbone-viande-rouge-et-voiture-creusent-lecart-entre-les-femmes-et-les-hommes-20250514_MOQY6FWAJBE3XMXXLROG6VAJ5A/), [France 2 JT (min 26)](https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-jeudi-15-mai-2025_7209831.html), [France culture](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/empreinte-carbone-les-femmes-emettent-moins-de-co2-que-les-hommes-5422083), [Alternatives économiques](https://www.alternatives-economiques.fr/bagnole-steaks-co2-faut-blamer-hommes/00115165), [der Spiegel](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-und-verkehr-maenner-emittieren-26-mehr-emissionen-als-frauen-a-a7358f7c-5470-42af-b5ea-8ba8337b5460)
     <details>
@@ -26,13 +25,9 @@ _Recent and upcoming [*] presentations_: EEA 2024, ARE Berkeley, Stanford ECHO L
     </p>
     </details>
 
-_Recent and upcoming [*] presentations_: CIRED, Cergy workshop on gender and environment, Sciences-Po CRIS, LSE workshop on Gender Inequality (by co-author), Mannheim Energy conference, WZB workshop on expectations of climate change, LSE Environment Week 2025*
-
 ## Work in progress
     
 * __Coal Phase-Out, Health and Human Capital__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
-
-_Recent and upcoming [*] presentations_: Misum conference
 
 * __Cycling Infrastructure, Environmental Amenities and Voting__, with Léa Bou-Sleiman
 
