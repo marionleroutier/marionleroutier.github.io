@@ -21,7 +21,7 @@ author_profile: true
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify"> Understanding the distribution of individual carbon footprints is crucial for designing fair and acceptable climate policies. We use detailed consumption data from France to quantify the gender gap in carbon footprints from food and transport. Across these two major sources of emissions, women emit 26 percent less than men. After accounting for differences in socioeconomic characteristics and in the scale of consumption, in part due to biology, up to 35 percent of the gap remains unexplained. Red meat and car use—high-emission goods associated with male identity—drive most of the residual, underscoring the role of gendered preferences in shaping emissions disparities.
+    <p align="justify"> We document a large gender gap in carbon footprints from food and transport in France using detailed consumption data. Across these two major sources of emissions, women emit 26 percent less than men. After accounting for observable characteristics and differences in the scale of consumption, which partly reflect gender differences in dietary energy needs, a 8 percent gap remains. Red meat and car — high-emission goods associated with masculine identity—drive most of the residual gap, suggesting that differences in carbon footprints between men and women are partly driven by gender stereotypes.
     </p>
     </details>
 
