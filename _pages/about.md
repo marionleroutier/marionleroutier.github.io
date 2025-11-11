@@ -23,7 +23,7 @@ __Welcome to my website!__
 
 * __News__:
   * __December 2025__: Presenting at seminar series of KU Leuven, Nanterre university
-  *  __November 2025__: Updated WP ["The Gender Gap in Carbon Footprints: Determinants and Implications"](http://marionleroutier.github.io/files/BerlandLeroutier_2025_gendergap_CF.pdf)
+  *  __November 2025__: Updated WP as IFS working paper ["The Gender Gap in Carbon Footprints: Determinants and Implications"](http://marionleroutier.github.io/files/BerlandLeroutier_2025_IFS_wp_gender.pdf)
   * __November 2025__: Organizing and speaking at "Pollution and Health" session at 2025 Journées de l'économie in Lyon (<a href="https://www.journeeseconomie.org/conference/2025/pollution-et-sante-17070">Replay in French</a>)
 
 <br><br><br><br>
