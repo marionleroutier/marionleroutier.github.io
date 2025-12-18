@@ -8,11 +8,11 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[UPDATED Working paper, November 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_ap_firms_updated_wp.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (submitted) [[UPDATED Working paper, December 2025]](https://marionleroutier.github.io/files/LeroutierOllivier_2025_cost_ap_firms.pdf). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
-    <p align="justify"> This paper shows that even moderate air pollution levels can reduce economic activity. Using monthly firm-level data from France and exploiting variation in PM2.5 exposure driven by changes in local wind direction, we find that a 10% increase in pollution exposure decreases firm sales by 0.23% in the same month and by 0.69% in the following month. Effects vary by sector and operate through reduced labor supply — with a 1% increase in sick leave — lower productivity, and demand-side responses. Overall, absenteeism accounts for only about 3-4% of the sales decline, indicating that the other two channels are important drivers of the observed sales losses. Our results suggest that aligning air quality with WHO guidelines could generate economic benefits comparable to the costs of regulation or the health benefits from reduced mortality.
+    <p align="justify"> This paper shows that even moderate air pollution reduces economic activity. Using French monthly firm-level data and exploiting variation in PM2.5 exposure driven by changes in local wind direction, we find that a 10% pollution increase lowers sales by 0.23% in the same month and 0.69% the next month. Effects vary by sector and operate through reduced labor supply—with a 1% increase in sick leave—, reduced productivity, and demand responses. Absenteeism explains only 3–4% of the sales decline, highlighting the importance of the other channels. Aligning air quality with WHO guidelines could yield economic benefits comparable to the costs of regulation or to health benefits from reduced mortality.
     </p>
     </details> 
   
