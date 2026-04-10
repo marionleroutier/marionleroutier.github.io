@@ -24,9 +24,7 @@ __Welcome to my website!__
 * Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
 * __News__:
-  * __Spring 2026__: Presenting at Paris II Assas, Sussex university, University of the Basque country, CESifo area conference on Energy and Climate Economics, Transatlantic Seminar on Environmental and Energy Economics
-  * __December 2025__: Presenting at seminar series of KU Leuven, Nanterre university
-  *  __November 2025__: Updated WP as IFS working paper ["The Gender Gap in Carbon Footprints: Determinants and Implications"](http://marionleroutier.github.io/files/BerlandLeroutier_2025_IFS_wp_gender.pdf)
-
+  * __Spring 2026__: Presenting at University of the Basque country, CESifo area conference on Energy and Climate Economics, Transatlantic Seminar on Environmental and Energy Economics, Leuven Summer Event, IEB Barcelona workshop in Urban Economics
+  
 <br><br><br><br>
 
