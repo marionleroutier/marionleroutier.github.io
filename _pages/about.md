@@ -19,7 +19,6 @@ __Welcome to my website!__
 * Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
 * __News__:
-  
   * __June 2026__: Updated wp versions of [The Gender Gap in Carbon Footprints: Determinants and Implications](https://marionleroutier.github.io/files/BerlandLeroutier_2026_gendergap_CF.pdf), and [The Cost of Air Pollution for Workers and Firms](https://marionleroutier.github.io/files/LeroutierOllivier_2026_cost_AP_firms.pdf)
   * __Spring 2026__: Presenting at University of the Basque country, CESifo area conference on Energy and Climate Economics, Transatlantic Seminar on Environmental and Energy Economics, Leuven Summer Event, IEB Barcelona workshop in Urban Economics
   
