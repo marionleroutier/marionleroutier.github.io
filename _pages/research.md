@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (<em>R&R at AEJ: Applied Economics</em>) [[UPDATED Working paper, June 2026]](https://marionleroutier.github.io/files/LeroutierOllivier_2026_cost_AP_firms.pdf), [[webinair  français]](https://www.youtube.com/watch?v=8lRABrtZnds). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
+* __The Cost of Air Pollution for Workers and Firms__, with Hélène Ollivier (PSE) (<em>R&R at AEJ: Applied Economics</em>) [[UPDATED Working paper, June 2026]](https://marionleroutier.github.io/files/LeroutierOllivier_2026_cost_AP_firms.pdf), [[webinair  français]](https://www.youtube.com/watch?v=8lRABrtZnds). __Media Coverage__: [RTL](https://www.rtl.fr/actu/debats-societe/pollution-de-l-air-voici-son-cout-astronomique-pour-la-sante-et-l-economie-en-france-7900502512)
     <details>
     <summary> Click for abstract: </summary>
     <br>
@@ -17,7 +17,7 @@ author_profile: true
     </details> 
   
 
-* __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland (<em>submitted</em>) [[UPDATED working paper, June 2026]](https://marionleroutier.github.io/files/BerlandLeroutier_2026_gendergap_CF.pdf) [[IFS working paper, November 2025]](https://marionleroutier.github.io/files/BerlandLeroutier_2025_IFS_wp_gender.pdf); __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests), [France 24](https://www.france24.com/en/europe/20250514-red-meat-cars-french-men-carbon-footprint-26-higher-than-women-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2025/05/17/plus-de-viande-rouge-et-de-grosses-voitures-pourquoi-les-hommes-emettent-plus-de-co2-que-les-femmes_6606499_3244.html), [Libération](https://www.liberation.fr/environnement/climat/empreinte-carbone-viande-rouge-et-voiture-creusent-lecart-entre-les-femmes-et-les-hommes-20250514_MOQY6FWAJBE3XMXXLROG6VAJ5A/), [France 2 JT (min 26)](https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-jeudi-15-mai-2025_7209831.html), [France culture](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/empreinte-carbone-les-femmes-emettent-moins-de-co2-que-les-hommes-5422083), [Alternatives économiques](https://www.alternatives-economiques.fr/bagnole-steaks-co2-faut-blamer-hommes/00115165), [der Spiegel](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-und-verkehr-maenner-emittieren-26-mehr-emissionen-als-frauen-a-a7358f7c-5470-42af-b5ea-8ba8337b5460)
+* __The Gender Gap in Carbon Footprints: Determinants and Implications__, with Ondine Berland (LSE) (<em>submitted</em>) [[UPDATED working paper, June 2026]](https://marionleroutier.github.io/files/BerlandLeroutier_2026_gendergap_CF.pdf) [[IFS working paper, November 2025]](https://marionleroutier.github.io/files/BerlandLeroutier_2025_IFS_wp_gender.pdf); __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests), [France 24](https://www.france24.com/en/europe/20250514-red-meat-cars-french-men-carbon-footprint-26-higher-than-women-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2025/05/17/plus-de-viande-rouge-et-de-grosses-voitures-pourquoi-les-hommes-emettent-plus-de-co2-que-les-femmes_6606499_3244.html), [Libération](https://www.liberation.fr/environnement/climat/empreinte-carbone-viande-rouge-et-voiture-creusent-lecart-entre-les-femmes-et-les-hommes-20250514_MOQY6FWAJBE3XMXXLROG6VAJ5A/), [France 2 JT (min 26)](https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-jeudi-15-mai-2025_7209831.html), [France culture](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/empreinte-carbone-les-femmes-emettent-moins-de-co2-que-les-hommes-5422083), [Alternatives économiques](https://www.alternatives-economiques.fr/bagnole-steaks-co2-faut-blamer-hommes/00115165), [der Spiegel](https://www.spiegel.de/wissenschaft/mensch/ernaehrung-und-verkehr-maenner-emittieren-26-mehr-emissionen-als-frauen-a-a7358f7c-5470-42af-b5ea-8ba8337b5460)
     <details>
     <summary> Click for abstract: </summary>
     <br>
@@ -27,13 +27,18 @@ author_profile: true
 
 ## Work in progress
     
-* __The Human Capital Cost of Air Pollution__, with Lucie Gadenne, Bobbie Upton and Rodrigo Toneto
+* __A Breath of Fresh Air? Fossil Fuel Electricity Phase Outs and the Long-Run Costs of Chronic Pollution Exposure__, with Julia Mink (U Bonn), Hélène Ollivier (PSE), Aurélien Saussay (LSE) and Emeline Lequy-Flahault (Inserm)
+    <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> We quantify the long-term societal costs of exposure to ambient air pollution. Leveraging detailed residential histories, we construct novel individual-level measures of cumulative exposure to air pollution in France. We exploit the large-scale shut-down of polluting power plants that took place in the 1980s, following the transition to nuclear energy, as a natural experiment to investigate the consequences of permanent air quality improvements on educational, employment and health outcomes. This project advances the literature by focusing on cumulative rather than short-term exposure, examining a broad set of educational, employment, and health outcomes, and applying quasi-experimental methods to produce plausibly unbiased estimates of air pollution’s societal cost
+    </p>
+    </details>
 
-* __Building Bike Lanes, Changing Commutes?__, with Léa Bou-Sleiman
+* __The Value of Clean Air: Health and Human Capital after the Coal Phase-Out__, with Lucie Gadenne (QMUL and IFS), Bobbie Upton (IFS) and Rodrigo Toneto (QMUL)
 
-* __A Breath of Fresh Air? Fossil Fuel Electricity Phase Outs and the Long-Run Costs of Chronic Pollution Exposure__, with Julia Mink, Hélène Ollivier, Aurélien Saussay and Emeline Lequy-Flahault
-   
-
+* __Building Bike Lanes, Changing Commutes?__, with Léa Bou-Sleiman (NUS) and Corentin Trévien (INSEE)
+    
 ## Peer-reviewed publications 
 
 ### Economics journals
