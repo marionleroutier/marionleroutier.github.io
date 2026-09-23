@@ -35,13 +35,13 @@ author_profile: true
     </p>
     </details>
 
-  *Presented at (included by co-author):  Paris Environmental Economics Workshop, CESifo Area conference on Energy and Climate Economics, LSE/Imperial Workshop in Environmental Economics, Leuven Summer Event, Transatlantic Seminar on Environmental and Energy Economics, University of the Basque Country, Le Havre University, UPEC workshop on the economics of air pollution, EEA 2026, WCERE 2026*
+  *Presented at (including by co-author):  Paris Environmental Economics Workshop, CESifo Area conference on Energy and Climate Economics, LSE/Imperial Workshop in Environmental Economics, Leuven Summer Event, Transatlantic Seminar on Environmental and Energy Economics, University of the Basque Country, Le Havre University, UPEC workshop on the economics of air pollution, EEA 2026, WCERE 2026*
 
 
 
 * __The Value of Clean Air: Health and Human Capital after the Coal Phase-Out__, with Lucie Gadenne (QMUL and IFS), Bobbie Upton (IFS) and Rodrigo Toneto (QMUL)
 
-  *Presented at (included by co-author): LSE-IFS workshop, Paris II, Sussex U, KU Leuven, New Developments in the Economics of Air Pollution Workshop*
+  *Presented at (including by co-author): LSE-IFS workshop, Paris II, Sussex U, KU Leuven, New Developments in the Economics of Air Pollution Workshop*
 
 * __Building Bike Lanes, Changing Commutes?__, with Léa Bou-Sleiman (NUS) and Corentin Trévien (INSEE)
    <details>
@@ -51,7 +51,7 @@ author_profile: true
      </p>
     </details>
     
-  *Presented at (included by co-author): NUS, IEB Workshop on Urban Economics*
+  *Presented at (including by co-author): NUS, IEB Workshop on Urban Economics*
 
     
 ## Peer-reviewed publications 
