@@ -35,9 +35,22 @@ author_profile: true
     </p>
     </details>
 
+    *Presented at (included by co-author):  Paris Environmental Economics Workshop, CESifo Area conference on Energy and Climate Economics, LSE/Imperial Workshop in Environmental Economics, Leuven Summer Event, Transatlantic Seminar on Environmental and Energy Economics, University of the Basque Country, Le Havre University, UPEC workshop on the economics of air pollution, EEA 2026, WCERE 2026*
+
 * __The Value of Clean Air: Health and Human Capital after the Coal Phase-Out__, with Lucie Gadenne (QMUL and IFS), Bobbie Upton (IFS) and Rodrigo Toneto (QMUL)
 
+  *Presented at (included by co-author): LSE-IFS workshop, Paris II, Sussex U, KU Leuven, New Developments in the Economics of Air Pollution Workshop*
+
 * __Building Bike Lanes, Changing Commutes?__, with Léa Bou-Sleiman (NUS) and Corentin Trévien (INSEE)
+   <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> Many European cities seek to curb the negative environmental externalities from transport. One approach has been to expand cycling infrastructure (cycling lanes and tracks) to encourage a shift toward cycling. To what extent does cycling infrastructure induce a shift toward cycling, and through which channels? We focus on the Paris metropolitan area, where cycling infrastructure coverage has increased by 60% since 2017 and bike commuting has nearly doubled. We exploit restricted-access census survey data with geocoded commuting flows. In a reduced-form exercise, we compare the mode choices of individuals experiencing increases vs. little change in cycling infrastructure in their neighbourhood of residence homes or along their exact commute itineraries. A 10% increase in cycling infrastructure coverage near home increases the propensity to commute by bike by 2% in the first year of exposure, with an average medium-run effect of a 0.7% increase per year of exposure. Cycling infrastructure expansion along the entire commute itinerary also increase cycling. The effect is not driven by changes in neighbourhood composition in high-exposure areas. Preliminary work indicates that additional bike commutes substitute primarily for two-wheelers and public transport, and bike adoption is stronger among white-collar workers and men. 
+     </p>
+    </details>
+    
+  *Presented at (included by co-author): NUS, IEB Workshop on Urban Economics*
+
     
 ## Peer-reviewed publications 
 
