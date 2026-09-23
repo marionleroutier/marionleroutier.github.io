@@ -35,7 +35,9 @@ author_profile: true
     </p>
     </details>
 
-    *Presented at (included by co-author):  Paris Environmental Economics Workshop, CESifo Area conference on Energy and Climate Economics, LSE/Imperial Workshop in Environmental Economics, Leuven Summer Event, Transatlantic Seminar on Environmental and Energy Economics, University of the Basque Country, Le Havre University, UPEC workshop on the economics of air pollution, EEA 2026, WCERE 2026*
+  *Presented at (included by co-author):  Paris Environmental Economics Workshop, CESifo Area conference on Energy and Climate Economics, LSE/Imperial Workshop in Environmental Economics, Leuven Summer Event, Transatlantic Seminar on Environmental and Energy Economics, University of the Basque Country, Le Havre University, UPEC workshop on the economics of air pollution, EEA 2026, WCERE 2026*
+
+
 
 * __The Value of Clean Air: Health and Human Capital after the Coal Phase-Out__, with Lucie Gadenne (QMUL and IFS), Bobbie Upton (IFS) and Rodrigo Toneto (QMUL)
 
