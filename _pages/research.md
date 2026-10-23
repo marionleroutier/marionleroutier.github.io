@@ -99,7 +99,7 @@ author_profile: true
 
 
 ## Policy publications
-* [Exposure to air pollution in England, 2003–23](https://ifs.org.uk/publications/exposure-air-pollution-england-2003-23), with Lucie Gadenne, Rodrigo Toneto and Bobbie Upton, IFS Report, December 2024. __Media Coverage__: [The Independent](https://www.independent.co.uk/climate-change/news/research-england-institute-for-fiscal-studies-world-health-organisation-covid-b2659805.html)
+* [Exposure to air pollution in England, 2003–23](https://ifs.org.uk/publications/exposure-air-pollution-england-2003-23), with Lucie Gadenne, Rodrigo Toneto and Bobbie Upton, IFS Report, December 2024. __Media Coverage__: [The Guardian](https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution), [The Independent](https://www.independent.co.uk/climate-change/news/research-england-institute-for-fiscal-studies-world-health-organisation-covid-b2659805.html)
    
 * [The Energy and Climate Crisis Facing Europe: How to Strike the Right Balance](https://freepolicybriefs.org/2022/05/24/energy-climate-crisis-europe/), with Julius Andersson, FREE Policy Brief, May 2022
   
