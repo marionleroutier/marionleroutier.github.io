@@ -18,6 +18,8 @@ __Welcome to my website!__
 
 * Don't hesitate to contact me at marion.leroutier(at)ensae.fr, and see my __cv__ [here](http://marionleroutier.github.io/files/Leroutier_cv_EN.pdf)
 
+* I regularly work with student interns or research assistants. If interested, please send me a short email motivating your application and a CV
+
 * __News__:
   
   * __September 2026__: Co-organizing The <a href="https://sites.google.com/view/tsee-online">__Transatlantic Seminar on Environmental and Energy Economics (TSEE-Online)__</a>. Check out our Fall schedule and sign up!
